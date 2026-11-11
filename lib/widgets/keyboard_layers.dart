@@ -241,8 +241,10 @@ class _KeyboardLayersState extends State<KeyboardLayers> with TickerProviderStat
 
   Widget _layer(_Layer layer, Size plane, double u, double pad, double head, double scale, bool reduce) {
     final fill = _fill[layer]!;
+    // Blueprint colour comes from the theme, not the colorway, so it reads on light and dark.
+    final blueprint = Theme.of(context).colorScheme.onSurfaceVariant;
     final ghostPaint = RepaintBoundary(
-      child: CustomPaint(size: plane, painter: _LayerPainter(layer, _geo, widget.colorway, u, pad, head, ghost: true)),
+      child: CustomPaint(size: plane, painter: _LayerPainter(layer, _geo, widget.colorway, u, pad, head, ghost: true, ghostColor: blueprint)),
     );
     final solidPaint = RepaintBoundary(
       child: CustomPaint(size: plane, painter: _LayerPainter(layer, _geo, widget.colorway, u, pad, head)),
@@ -260,7 +262,7 @@ class _KeyboardLayersState extends State<KeyboardLayers> with TickerProviderStat
         final rest = _depth[layer]!;
         return Stack(children: [
           // Ghost stays at the layer's resting depth; the solid part drops onto it.
-          if (solid < 1) Transform(alignment: Alignment.center, transform: at(rest), child: Opacity(opacity: (1 - solid) * .55, child: ghostPaint)),
+          if (solid < 1) Transform(alignment: Alignment.center, transform: at(rest), child: Opacity(opacity: 1 - solid, child: ghostPaint)),
           if (solid > 0) Transform(alignment: Alignment.center, transform: at(rest + (reduce ? 0 : (1 - p) * 70)), child: Opacity(opacity: solid, child: solidPaint)),
         ]);
       },
@@ -269,12 +271,13 @@ class _KeyboardLayersState extends State<KeyboardLayers> with TickerProviderStat
 }
 
 class _LayerPainter extends CustomPainter {
-  _LayerPainter(this.layer, this.geo, this.cw, this.u, this.pad, this.head, {this.ghost = false});
+  _LayerPainter(this.layer, this.geo, this.cw, this.u, this.pad, this.head, {this.ghost = false, this.ghostColor = Colors.grey});
   final _Layer layer;
   final _Geo geo;
   final KeyboardColorway cw;
   final double u, pad, head;
   final bool ghost;
+  final Color ghostColor;
 
   Rect _key(Rect k) => Rect.fromLTWH((k.left + pad) * u, (k.top + pad + head) * u, k.width * u, k.height * u);
 
@@ -284,11 +287,14 @@ class _LayerPainter extends CustomPainter {
     final line = Paint()
       ..style = PaintingStyle.stroke
       ..strokeWidth = 1.6
-      ..color = cw.legend.withValues(alpha: .5);
+      ..color = ghostColor;
     switch (layer) {
       case _Layer.kase:
         final rr = RRect.fromRectAndRadius(body, Radius.circular(u * .6));
-        if (ghost) return _dashed(canvas, rr, line);
+        if (ghost) {
+          canvas.drawRRect(rr, Paint()..color = ghostColor.withValues(alpha: .07));
+          return _dashed(canvas, rr, line);
+        }
         canvas.drawRRect(rr.shift(Offset(0, u * .22)), Paint()..color = Color.alphaBlend(Colors.black38, cw.caseColor));
         canvas.drawRRect(rr, Paint()..color = cw.caseColor);
         canvas.drawRRect(rr.deflate(u * .12), Paint()..style = PaintingStyle.stroke..strokeWidth = 1.2..color = Colors.white24);
@@ -301,7 +307,7 @@ class _LayerPainter extends CustomPainter {
         }
       case _Layer.stabs:
         final p = Paint()
-          ..color = ghost ? cw.legend.withValues(alpha: .5) : cw.legend
+          ..color = ghost ? ghostColor : cw.legend
           ..strokeWidth = u * .09
           ..strokeCap = StrokeCap.round;
         final dot = Paint()..color = p.color;
@@ -318,7 +324,7 @@ class _LayerPainter extends CustomPainter {
         for (final k in geo.keys) {
           final r = Rect.fromCenter(center: _key(k).center, width: u * .62, height: u * .62);
           if (ghost) {
-            canvas.drawRect(r, line..strokeWidth = 1);
+            canvas.drawRect(r, line..strokeWidth = 1.2);
           } else {
             canvas.drawRRect(RRect.fromRectAndRadius(r, Radius.circular(u * .1)), Paint()..color = cw.switchColor);
             canvas.drawRect(Rect.fromCenter(center: r.center, width: u * .22, height: u * .22), Paint()..color = Colors.black45);
@@ -330,7 +336,7 @@ class _LayerPainter extends CustomPainter {
           final base = k.width != 1 && k.width < 6 ? cw.mod : cw.keycap; // modifiers get the accent colour
           final rr = RRect.fromRectAndRadius(r, Radius.circular(u * .16));
           if (ghost) {
-            canvas.drawRRect(rr, line..strokeWidth = 1);
+            canvas.drawRRect(rr, line..strokeWidth = 1.2);
             continue;
           }
           canvas.drawRRect(rr.shift(Offset(0, u * .1)), Paint()..color = Color.alphaBlend(Colors.black38, base));
@@ -366,5 +372,5 @@ class _LayerPainter extends CustomPainter {
   }
 
   @override
-  bool shouldRepaint(_LayerPainter o) => o.geo != geo || o.cw != cw || o.u != u || o.ghost != ghost;
+  bool shouldRepaint(_LayerPainter o) => o.geo != geo || o.cw != cw || o.u != u || o.ghost != ghost || o.ghostColor != ghostColor;
 }

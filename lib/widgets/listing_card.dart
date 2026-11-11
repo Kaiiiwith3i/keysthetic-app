@@ -74,16 +74,17 @@ class ListingPhoto extends ConsumerWidget {
       width: double.infinity,
       height: double.infinity,
       errorBuilder: (_, _, _) => ph,
-      frameBuilder: (_, child, frame, sync) => sync ? child : AnimatedOpacity(opacity: frame == null ? 0 : 1, duration: Dur.base, child: child),
+      frameBuilder: (_, child, frame, sync) => sync
+          ? child
+          : AnimatedSwitcher(duration: Dur.base, child: frame == null ? const Shimmer(child: SkeletonBox(height: double.infinity, radius: 0)) : child),
     );
   }
 }
 
 /// A grid card: keycap surface, photo with Hero, title, price, condition and area, tags, badges.
 class ListingCard extends ConsumerWidget {
-  const ListingCard({super.key, required this.listing, this.tall = false});
+  const ListingCard({super.key, required this.listing});
   final Listing listing;
-  final bool tall;
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
@@ -106,7 +107,7 @@ class ListingCard extends ConsumerWidget {
         Padding(
           padding: const EdgeInsets.all(6),
           child: AspectRatio(
-            aspectRatio: tall ? .86 : 1.08,
+            aspectRatio: 4 / 3, // seeded renders are 800x600; keep the whole keyboard visible
             child: Stack(fit: StackFit.expand, children: [
               heroOn ? ListingHero(listingId: l.id, child: photo) : photo,
               Positioned(
@@ -217,7 +218,7 @@ class ListingsBody extends StatelessWidget {
       data: (items) => items.isEmpty
           ? fill(StateMessage(icon: Icons.search_off, title: emptyTitle, hint: emptyHint))
           : SliverToBoxAdapter(
-              child: _Masonry([for (final (i, l) in items.indexed) Stagger(index: i, child: ListingCard(listing: l, tall: i % 3 == 0))]),
+              child: _Masonry([for (final (i, l) in items.indexed) Stagger(index: i, child: ListingCard(listing: l))]),
             ),
     );
     return RefreshIndicator(

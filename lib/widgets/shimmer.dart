@@ -79,7 +79,7 @@ class ListingCardSkeleton extends StatelessWidget {
   @override
   Widget build(BuildContext context) => const Shimmer(
         child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-          AspectRatio(aspectRatio: 1, child: SkeletonBox(height: double.infinity, radius: Rad.lg)),
+          AspectRatio(aspectRatio: 4 / 3, child: SkeletonBox(height: double.infinity, radius: Rad.lg)),
           SizedBox(height: Sp.md),
           SkeletonBox(width: 120),
           SizedBox(height: Sp.sm),

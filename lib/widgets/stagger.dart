@@ -6,7 +6,7 @@ import '../theme/tokens.dart';
 /// Staggered entrance for list/grid items: fade + small rise, delayed by index.
 /// Delay is capped so long lists don't make the tail wait. Reduce-motion: plain short fade.
 class Stagger extends StatelessWidget {
-  const Stagger({super.key, required this.index, required this.child, this.step = const Duration(milliseconds: 45), this.maxSteps = 8});
+  const Stagger({super.key, required this.index, required this.child, this.step = const Duration(milliseconds: 45), this.maxSteps = 5});
 
   final int index;
   final Widget child;

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../models/build.dart';
+import '../models/listing.dart';
 import '../services/browse.dart';
 import '../theme/app_theme.dart';
 import '../theme/tokens.dart';
@@ -53,9 +54,24 @@ class _NameDialogState extends State<_NameDialog> {
       );
 }
 
+/// Fits-My-Build tag rule (API.md), client side: first checked tag where listing and build
+/// are both set and differ, e.g. "Layout 75% ≠ build's TKL". Null when compatible.
+String? buildConflict(Listing l, Build b) {
+  final slot = slotOfCategory(l.category);
+  final checks = <(String, String?, String?, Map<String, String>)>[
+    if (slot == BuildSlot.board || slot == BuildSlot.stabilizers) ('Layout', l.layout, b.layout, layoutLabels),
+    if (slot == BuildSlot.board || slot == BuildSlot.switches || slot == BuildSlot.keycaps) ('Stem', l.stem, b.stem, stemLabels),
+    if (slot == BuildSlot.board || slot == BuildSlot.cable) ('Connector', l.connector, b.connector, connectorLabels),
+  ];
+  for (final (name, mine, theirs, labels) in checks) {
+    if (mine != null && theirs != null && mine != theirs) return '$name ${labels[mine] ?? mine} ≠ build\'s ${labels[theirs] ?? theirs}';
+  }
+  return null;
+}
+
 /// "Add to build": pick which build gets [slot]. Resolves to the chosen build,
 /// or `create: true` when the buyer wants a new one.
-Future<({Build? build, bool create})?> pickBuildForSlot(BuildContext context, List<Build> builds, BuildSlot slot) =>
+Future<({Build? build, bool create})?> pickBuildForSlot(BuildContext context, List<Build> builds, BuildSlot slot, {Listing? listing}) =>
     showModalBottomSheet<({Build? build, bool create})>(
       context: context,
       showDragHandle: true,
@@ -86,6 +102,14 @@ Future<({Build? build, bool create})?> pickBuildForSlot(BuildContext context, Li
                         maxLines: 1,
                         overflow: TextOverflow.ellipsis,
                       ),
+                      if (listing != null && buildConflict(listing, b) != null) ...[
+                        const SizedBox(height: Sp.xs),
+                        Row(children: [
+                          Icon(Icons.warning_amber_rounded, size: 14, color: ctx.keys.offer),
+                          const SizedBox(width: Sp.xs),
+                          Flexible(child: Text(buildConflict(listing, b)!, style: ctx.tt.bodySmall!.copyWith(color: ctx.cs.onSurface), maxLines: 1, overflow: TextOverflow.ellipsis)),
+                        ]),
+                      ],
                     ]),
                   ),
                   const SizedBox(width: Sp.md),

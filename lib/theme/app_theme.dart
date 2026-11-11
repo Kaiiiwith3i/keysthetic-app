@@ -4,9 +4,11 @@ import 'tokens.dart';
 const _accentLight = Color(0xFFFF4D1C); // keycap vermilion
 const _accentDark = Color(0xFFFF6A3D);
 
+// InstrumentSans and JetBrainsMono lack U+20B1 (peso); Bricolage has it.
 TextStyle _ts(String family, double size, double w, {double? ls, double? h}) =>
     TextStyle(
       fontFamily: family,
+      fontFamilyFallback: const ['Bricolage'],
       fontSize: size,
       fontWeight: FontWeight.values[((w / 100).round() - 1).clamp(0, 8)],
       fontVariations: [FontVariation.weight(w)],
@@ -75,6 +77,7 @@ ThemeData buildTheme(Brightness b) {
     scaffoldBackgroundColor: bg,
     textTheme: tt,
     fontFamily: 'InstrumentSans',
+    fontFamilyFallback: const ['Bricolage'],
     extensions: [k],
     splashFactory: NoSplash.splashFactory,
     appBarTheme: AppBarTheme(
@@ -105,8 +108,10 @@ ThemeData buildTheme(Brightness b) {
     ),
     chipTheme: ChipThemeData(
       backgroundColor: k.capTop,
-      selectedColor: accent.withValues(alpha: .18),
+      // Dark: a .18 accent wash on charcoal barely moves off the unselected cap; raise it and keep ink text.
+      selectedColor: accent.withValues(alpha: dark ? .38 : .18),
       checkmarkColor: accent,
+      secondaryLabelStyle: tt.labelLarge,
       side: BorderSide(color: scheme.outlineVariant),
       labelStyle: tt.labelLarge,
       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(Rad.sm)),

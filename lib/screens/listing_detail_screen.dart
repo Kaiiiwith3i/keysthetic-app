@@ -87,7 +87,7 @@ class _ListingDetailScreenState extends ConsumerState<ListingDetailScreen> {
       final notifier = ref.read(buildsProvider.notifier);
       final builds = await ref.read(buildsProvider.future);
       if (!mounted) return;
-      final pick = await pickBuildForSlot(context, builds, slot);
+      final pick = await pickBuildForSlot(context, builds, slot, listing: l);
       if (pick == null || !mounted) return;
       var build = pick.build;
       if (pick.create) {
