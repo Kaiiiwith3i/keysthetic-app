@@ -78,6 +78,7 @@ Reset everything after rehearsals: stop the server, run `seed.dart`, start it ag
 | Symptom | Fix |
 |---|---|
 | Test connection fails on the phone | Same Wi-Fi? Address current (`ipconfig getifaddr en0`)? Server terminal still running? Try `http://<ip>:8080/health` in the phone's browser. |
+| No shared Wi-Fi at all, phone is plugged in by USB | Forward the port over the cable: `adb reverse tcp:8080 tcp:8080`, then use `127.0.0.1:8080` as the server address. Works only while the cable is connected (re-run after re-plugging). |
 | Venue Wi-Fi blocks phone↔laptop traffic (common on school/guest Wi-Fi) | Turn on the phone's **hotspot**, join it from the Mac, re-check the Mac's address, use that. |
 | `adb devices` shows nothing / "unauthorized" | Unlock the phone, re-plug, accept the USB debugging prompt; try another cable (some are charge-only). |
 | `INSTALL_FAILED_UPDATE_INCOMPATIBLE` | An older build with a different signature is installed: `adb uninstall ph.keysthetic.keysthetic`, then install again. |
