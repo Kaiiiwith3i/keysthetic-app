@@ -1,0 +1,3540 @@
+{
+ "generated_at": "2026-11-11T18:16:21.705725Z",
+ "listings": [
+  {
+   "id": 62,
+   "seller": {
+    "id": 11,
+    "name": "Dennis Pangilinan",
+    "area": "San Pablo City Plaza"
+   },
+   "title": "Corsair K70 PRO TKL",
+   "description": "Selling my Corsair K70 PRO TKL. Fully working and tested, stock configuration unless stated in the Legit Check on this listing. Meetup in Laguna preferred; fair offers welcome.",
+   "category": "keyboard",
+   "price": 5200,
+   "condition": "like_new",
+   "kind": "mechanical",
+   "connection": "wired",
+   "layout": "tkl",
+   "switch_type": null,
+   "stem": "mx",
+   "connector": "usb_c",
+   "meetup_area": "San Pablo City Plaza",
+   "photos": [
+    "/storage/seed/photos/62_1.jpg",
+    "/storage/seed/photos/62_2.jpg",
+    "/storage/seed/photos/62_3.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-03T08:05:00.000Z"
+  },
+  {
+   "id": 61,
+   "seller": {
+    "id": 10,
+    "name": "Liza Maglaya",
+    "area": "Cabuyao Town Center"
+   },
+   "title": "Corsair K65 PLUS WIRELESS",
+   "description": "Selling my Corsair K65 PLUS WIRELESS. Fully working and tested, stock configuration unless stated in the Legit Check on this listing. Meetup in Laguna preferred; fair offers welcome.",
+   "category": "keyboard",
+   "price": 8200,
+   "condition": "used",
+   "kind": "mechanical",
+   "connection": "wireless",
+   "layout": "75",
+   "switch_type": "linear",
+   "stem": "mx",
+   "connector": "usb_c",
+   "meetup_area": "Cabuyao Town Center",
+   "photos": [
+    "/storage/seed/photos/61_1.jpg",
+    "/storage/seed/photos/61_2.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-03T07:48:00.000Z"
+  },
+  {
+   "id": 60,
+   "seller": {
+    "id": 9,
+    "name": "Marco Hernandez",
+    "area": "Biñan Pavilion"
+   },
+   "title": "Corsair K70 RGB PRO",
+   "description": "Selling my Corsair K70 RGB PRO. Fully working and tested, stock configuration unless stated in the Legit Check on this listing. Meetup in Laguna preferred; fair offers welcome.",
+   "category": "keyboard",
+   "price": 3900,
+   "condition": "like_new",
+   "kind": "mechanical",
+   "connection": "wired",
+   "layout": "full",
+   "switch_type": "linear",
+   "stem": "mx",
+   "connector": "usb_c",
+   "meetup_area": "Biñan Pavilion",
+   "photos": [
+    "/storage/seed/photos/60_1.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-03T07:31:00.000Z"
+  },
+  {
+   "id": 59,
+   "seller": {
+    "id": 8,
+    "name": "Trisha Alcantara",
+    "area": "UPLB Gate"
+   },
+   "title": "Razer Huntsman Mini",
+   "description": "Selling my Razer Huntsman Mini. Fully working and tested, stock configuration unless stated in the Legit Check on this listing. Meetup in Laguna preferred; fair offers welcome.",
+   "category": "keyboard",
+   "price": 4900,
+   "condition": "new",
+   "kind": "mechanical",
+   "connection": "wired",
+   "layout": "60",
+   "switch_type": "linear",
+   "stem": "mx",
+   "connector": "usb_c",
+   "meetup_area": "UPLB Gate",
+   "photos": [
+    "/storage/seed/photos/59_1.jpg",
+    "/storage/seed/photos/59_2.jpg",
+    "/storage/seed/photos/59_3.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-03T07:14:00.000Z"
+  },
+  {
+   "id": 58,
+   "seller": {
+    "id": 7,
+    "name": "Renz Macaraeg",
+    "area": "Robinsons Place Los Baños"
+   },
+   "title": "Razer BlackWidow V4 Pro 75%",
+   "description": "Selling my Razer BlackWidow V4 Pro 75%. Fully working and tested, stock configuration unless stated in the Legit Check on this listing. Meetup in Laguna preferred; fair offers welcome.",
+   "category": "keyboard",
+   "price": 7500,
+   "condition": "used",
+   "kind": "mechanical",
+   "connection": "wireless",
+   "layout": "75",
+   "switch_type": "tactile",
+   "stem": "mx",
+   "connector": "usb_c",
+   "meetup_area": "Robinsons Place Los Baños",
+   "photos": [
+    "/storage/seed/photos/58_1.jpg",
+    "/storage/seed/photos/58_2.jpg"
+   ],
+   "sound_url": "/storage/seed/sounds/typing_6.wav",
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-03T06:57:00.000Z"
+  },
+  {
+   "id": 57,
+   "seller": {
+    "id": 6,
+    "name": "Bea Katigbak",
+    "area": "Ayala Malls Solenad"
+   },
+   "title": "Razer BlackWidow V4 Pro",
+   "description": "Selling my Razer BlackWidow V4 Pro. Fully working and tested, stock configuration unless stated in the Legit Check on this listing. Meetup in Laguna preferred; fair offers welcome.",
+   "category": "keyboard",
+   "price": 2800,
+   "condition": "like_new",
+   "kind": "mechanical",
+   "connection": "wired",
+   "layout": null,
+   "switch_type": "linear",
+   "stem": "mx",
+   "connector": "usb_c",
+   "meetup_area": "Ayala Malls Solenad",
+   "photos": [
+    "/storage/seed/photos/57_1.jpg"
+   ],
+   "sound_url": "/storage/seed/sounds/typing_5.wav",
+   "status": "active",
+   "legit": {
+    "reference_id": "razer-blackwidow-v4-pro",
+    "verdict": "mods",
+    "verdict_label": "Declared mods",
+    "fields": [
+     {
+      "field": "layout",
+      "label": "Layout",
+      "expected": null,
+      "given": "75",
+      "result": "unknown",
+      "note": "No published layout to compare."
+     },
+     {
+      "field": "switch",
+      "label": "Switches",
+      "expected": "Green, Yellow, Orange",
+      "given": "Gateron Oil King",
+      "result": "mod",
+      "note": "Stock options: Green, Yellow, Orange."
+     },
+     {
+      "field": "connection",
+      "label": "Connection",
+      "expected": "wired",
+      "given": "wired",
+      "result": "match",
+      "note": "Same as published."
+     },
+     {
+      "field": "weight_g",
+      "label": "Weight (g)",
+      "expected": null,
+      "given": null,
+      "result": "unknown",
+      "note": "No published weight."
+     },
+     {
+      "field": "serial",
+      "label": "Serial number",
+      "expected": null,
+      "given": "DEMO-1004",
+      "result": "unknown",
+      "note": "No machine-checkable serial format."
+     }
+    ],
+    "label_photo_url": "/storage/seed/photos/57_1.jpg",
+    "pcb_photo_url": null,
+    "disclaimer": "This compares the seller's answers to published stock specs. It is not proof of authenticity.",
+    "checked_at": "2026-11-03T06:40:00.000Z"
+   },
+   "created_at": "2026-11-03T06:23:00.000Z"
+  },
+  {
+   "id": 56,
+   "seller": {
+    "id": 5,
+    "name": "Jerome Dela Cruz",
+    "area": "Nuvali"
+   },
+   "title": "Razer Huntsman V3 Pro",
+   "description": "Selling my Razer Huntsman V3 Pro. Fully working and tested, stock configuration unless stated in the Legit Check on this listing. Meetup in Laguna preferred; fair offers welcome.",
+   "category": "keyboard",
+   "price": 6900,
+   "condition": "used",
+   "kind": "mechanical",
+   "connection": "wired",
+   "layout": null,
+   "switch_type": null,
+   "stem": "mx",
+   "connector": "usb_c",
+   "meetup_area": "Nuvali",
+   "photos": [
+    "/storage/seed/photos/56_1.jpg",
+    "/storage/seed/photos/56_2.jpg",
+    "/storage/seed/photos/56_3.jpg"
+   ],
+   "sound_url": "/storage/seed/sounds/typing_4.wav",
+   "status": "active",
+   "legit": {
+    "reference_id": "razer-huntsman-v3-pro",
+    "verdict": "match",
+    "verdict_label": "Matches stock specs",
+    "fields": [
+     {
+      "field": "layout",
+      "label": "Layout",
+      "expected": null,
+      "given": "75",
+      "result": "unknown",
+      "note": "No published layout to compare."
+     },
+     {
+      "field": "switch",
+      "label": "Switches",
+      "expected": "Razer Analog Optical Switches Gen-2",
+      "given": "Razer Analog Optical Switches Gen-2",
+      "result": "match",
+      "note": "One of the stock switches."
+     },
+     {
+      "field": "connection",
+      "label": "Connection",
+      "expected": null,
+      "given": "wired",
+      "result": "unknown",
+      "note": "No published connection."
+     },
+     {
+      "field": "weight_g",
+      "label": "Weight (g)",
+      "expected": null,
+      "given": null,
+      "result": "unknown",
+      "note": "No published weight."
+     },
+     {
+      "field": "serial",
+      "label": "Serial number",
+      "expected": null,
+      "given": "DEMO-1003",
+      "result": "unknown",
+      "note": "No machine-checkable serial format."
+     }
+    ],
+    "label_photo_url": "/storage/seed/photos/56_1.jpg",
+    "pcb_photo_url": null,
+    "disclaimer": "This compares the seller's answers to published stock specs. It is not proof of authenticity.",
+    "checked_at": "2026-11-03T06:06:00.000Z"
+   },
+   "created_at": "2026-11-03T05:49:00.000Z"
+  },
+  {
+   "id": 55,
+   "seller": {
+    "id": 4,
+    "name": "Carla Mendoza",
+    "area": "Paseo de Santa Rosa"
+   },
+   "title": "Logitech PRO X TKL Wireless",
+   "description": "Selling my Logitech PRO X TKL Wireless. Fully working and tested, stock configuration unless stated in the Legit Check on this listing. Meetup in Laguna preferred; fair offers welcome.",
+   "category": "keyboard",
+   "price": 3500,
+   "condition": "new",
+   "kind": "mechanical",
+   "connection": "wireless",
+   "layout": "tkl",
+   "switch_type": "linear",
+   "stem": "mx",
+   "connector": "usb_c",
+   "meetup_area": "Paseo de Santa Rosa",
+   "photos": [
+    "/storage/seed/photos/55_1.jpg",
+    "/storage/seed/photos/55_2.jpg"
+   ],
+   "sound_url": "/storage/seed/sounds/typing_3.wav",
+   "status": "active",
+   "legit": {
+    "reference_id": "logitech-pro-x-tkl-wireless",
+    "verdict": "mismatch",
+    "verdict_label": "Mismatch: ask the seller",
+    "fields": [
+     {
+      "field": "layout",
+      "label": "Layout",
+      "expected": "tkl",
+      "given": "full",
+      "result": "mismatch",
+      "note": "Published layout is tkl."
+     },
+     {
+      "field": "switch",
+      "label": "Switches",
+      "expected": "Tactile, Clicky, Linear",
+      "given": "Tactile",
+      "result": "match",
+      "note": "One of the stock switches."
+     },
+     {
+      "field": "connection",
+      "label": "Connection",
+      "expected": "wireless",
+      "given": "wireless",
+      "result": "match",
+      "note": "Same as published."
+     },
+     {
+      "field": "weight_g",
+      "label": "Weight (g)",
+      "expected": null,
+      "given": null,
+      "result": "unknown",
+      "note": "No published weight."
+     },
+     {
+      "field": "serial",
+      "label": "Serial number",
+      "expected": null,
+      "given": "DEMO-1002",
+      "result": "unknown",
+      "note": "No machine-checkable serial format."
+     }
+    ],
+    "label_photo_url": "/storage/seed/photos/55_1.jpg",
+    "pcb_photo_url": null,
+    "disclaimer": "This compares the seller's answers to published stock specs. It is not proof of authenticity.",
+    "checked_at": "2026-11-03T05:32:00.000Z"
+   },
+   "created_at": "2026-11-03T05:15:00.000Z"
+  },
+  {
+   "id": 54,
+   "seller": {
+    "id": 3,
+    "name": "Paolo Villanueva",
+    "area": "Calamba Crossing"
+   },
+   "title": "Logitech G915 X TKL",
+   "description": "Selling my Logitech G915 X TKL. Fully working and tested, stock configuration unless stated in the Legit Check on this listing. Meetup in Laguna preferred; fair offers welcome.",
+   "category": "keyboard",
+   "price": 5800,
+   "condition": "used",
+   "kind": "mechanical",
+   "connection": "wireless",
+   "layout": "tkl",
+   "switch_type": "linear",
+   "stem": "mx",
+   "connector": "usb_c",
+   "meetup_area": "Calamba Crossing",
+   "photos": [
+    "/storage/seed/photos/54_1.jpg"
+   ],
+   "sound_url": "/storage/seed/sounds/typing_2.wav",
+   "status": "active",
+   "legit": {
+    "reference_id": "logitech-g915-x-tkl-wireless",
+    "verdict": "mods",
+    "verdict_label": "Declared mods",
+    "fields": [
+     {
+      "field": "layout",
+      "label": "Layout",
+      "expected": "tkl",
+      "given": "tkl",
+      "result": "match",
+      "note": "Same as published."
+     },
+     {
+      "field": "switch",
+      "label": "Switches",
+      "expected": "GL Linear, GL Tactile, GL Clicky",
+      "given": "Gateron Oil King",
+      "result": "mod",
+      "note": "Stock options: GL Linear, GL Tactile, GL Clicky."
+     },
+     {
+      "field": "connection",
+      "label": "Connection",
+      "expected": "wireless",
+      "given": "wireless",
+      "result": "match",
+      "note": "Same as published."
+     },
+     {
+      "field": "weight_g",
+      "label": "Weight (g)",
+      "expected": null,
+      "given": null,
+      "result": "unknown",
+      "note": "No published weight."
+     },
+     {
+      "field": "serial",
+      "label": "Serial number",
+      "expected": null,
+      "given": "DEMO-1001",
+      "result": "unknown",
+      "note": "No machine-checkable serial format."
+     }
+    ],
+    "label_photo_url": "/storage/seed/photos/54_1.jpg",
+    "pcb_photo_url": null,
+    "disclaimer": "This compares the seller's answers to published stock specs. It is not proof of authenticity.",
+    "checked_at": "2026-11-03T04:58:00.000Z"
+   },
+   "created_at": "2026-11-03T04:41:00.000Z"
+  },
+  {
+   "id": 53,
+   "seller": {
+    "id": 2,
+    "name": "Ana Dizon",
+    "area": "SM City Calamba"
+   },
+   "title": "Logitech G915 TKL",
+   "description": "Selling my Logitech G915 TKL. Fully working and tested, stock configuration unless stated in the Legit Check on this listing. Meetup in Laguna preferred; fair offers welcome.",
+   "category": "keyboard",
+   "price": 4200,
+   "condition": "like_new",
+   "kind": "mechanical",
+   "connection": "wireless",
+   "layout": "tkl",
+   "switch_type": null,
+   "stem": "mx",
+   "connector": "usb_c",
+   "meetup_area": "SM City Calamba",
+   "photos": [
+    "/storage/seed/photos/53_1.jpg",
+    "/storage/seed/photos/53_2.jpg",
+    "/storage/seed/photos/53_3.jpg"
+   ],
+   "sound_url": "/storage/seed/sounds/typing_1.wav",
+   "status": "active",
+   "legit": {
+    "reference_id": "logitech-g915-tkl-wireless",
+    "verdict": "match",
+    "verdict_label": "Matches stock specs",
+    "fields": [
+     {
+      "field": "layout",
+      "label": "Layout",
+      "expected": "tkl",
+      "given": "tkl",
+      "result": "match",
+      "note": "Same as published."
+     },
+     {
+      "field": "switch",
+      "label": "Switches",
+      "expected": null,
+      "given": "Unknown switch",
+      "result": "unknown",
+      "note": "No published stock switches."
+     },
+     {
+      "field": "connection",
+      "label": "Connection",
+      "expected": "wireless",
+      "given": "wireless",
+      "result": "match",
+      "note": "Same as published."
+     },
+     {
+      "field": "weight_g",
+      "label": "Weight (g)",
+      "expected": null,
+      "given": null,
+      "result": "unknown",
+      "note": "No published weight."
+     },
+     {
+      "field": "serial",
+      "label": "Serial number",
+      "expected": null,
+      "given": "DEMO-1000",
+      "result": "unknown",
+      "note": "No machine-checkable serial format."
+     }
+    ],
+    "label_photo_url": "/storage/seed/photos/53_1.jpg",
+    "pcb_photo_url": null,
+    "disclaimer": "This compares the seller's answers to published stock specs. It is not proof of authenticity.",
+    "checked_at": "2026-11-03T04:24:00.000Z"
+   },
+   "created_at": "2026-11-03T04:07:00.000Z"
+  },
+  {
+   "id": 52,
+   "seller": {
+    "id": 9,
+    "name": "Marco Hernandez",
+    "area": "Biñan Pavilion"
+   },
+   "title": "Mini-USB coiled cable, silver",
+   "description": "Coiled mini-USB for retro boards. Lightly used.",
+   "category": "cable",
+   "price": 350,
+   "condition": "used",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": null,
+   "stem": null,
+   "connector": "mini_usb",
+   "meetup_area": "UPLB Gate",
+   "photos": [
+    "/storage/seed/photos/52_1.jpg",
+    "/storage/seed/photos/52_2.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-03T03:50:00.000Z"
+  },
+  {
+   "id": 51,
+   "seller": {
+    "id": 8,
+    "name": "Trisha Alcantara",
+    "area": "UPLB Gate"
+   },
+   "title": "Navy coiled USB-C cable, 1.5 m",
+   "description": "Navy coil with coral connector ring.",
+   "category": "cable",
+   "price": 750,
+   "condition": "new",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": null,
+   "stem": null,
+   "connector": "usb_c",
+   "meetup_area": "UPLB Gate",
+   "photos": [
+    "/storage/seed/photos/51_1.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-03T03:33:00.000Z"
+  },
+  {
+   "id": 50,
+   "seller": {
+    "id": 7,
+    "name": "Renz Macaraeg",
+    "area": "Robinsons Place Los Baños"
+   },
+   "title": "USB-A to USB-C, rose pink coiled",
+   "description": "Soft rose coil, shielded. Good match for pink builds.",
+   "category": "cable",
+   "price": 800,
+   "condition": "like_new",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": null,
+   "stem": null,
+   "connector": "usb_a",
+   "meetup_area": "Robinsons Place Los Baños",
+   "photos": [
+    "/storage/seed/photos/50_1.jpg",
+    "/storage/seed/photos/50_2.jpg",
+    "/storage/seed/photos/50_3.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-03T03:16:00.000Z"
+  },
+  {
+   "id": 49,
+   "seller": {
+    "id": 6,
+    "name": "Bea Katigbak",
+    "area": "Ayala Malls Solenad"
+   },
+   "title": "Coiled USB-C cable, forest green",
+   "description": "Forest green and mint coiled cable with silver aviator.",
+   "category": "cable",
+   "price": 950,
+   "condition": "new",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": null,
+   "stem": null,
+   "connector": "usb_c",
+   "meetup_area": "Nuvali",
+   "photos": [
+    "/storage/seed/photos/49_1.jpg",
+    "/storage/seed/photos/49_2.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-03T02:59:00.000Z"
+  },
+  {
+   "id": 48,
+   "seller": {
+    "id": 5,
+    "name": "Jerome Dela Cruz",
+    "area": "Nuvali"
+   },
+   "title": "Mini-USB cable for vintage keyboards",
+   "description": "Hard to find these days. Short 1 m cable, tested working.",
+   "category": "cable",
+   "price": 180,
+   "condition": "used",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": null,
+   "stem": null,
+   "connector": "mini_usb",
+   "meetup_area": "Robinsons Place Los Baños",
+   "photos": [
+    "/storage/seed/photos/48_1.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-03T02:42:00.000Z"
+  },
+  {
+   "id": 47,
+   "seller": {
+    "id": 4,
+    "name": "Carla Mendoza",
+    "area": "Paseo de Santa Rosa"
+   },
+   "title": "Braided USB-C to USB-A cable, 1.8 m",
+   "description": "Plain braided cable, works great for any wired board.",
+   "category": "cable",
+   "price": 200,
+   "condition": "new",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": null,
+   "stem": null,
+   "connector": "usb_c",
+   "meetup_area": "Paseo de Santa Rosa",
+   "photos": [
+    "/storage/seed/photos/47_1.jpg",
+    "/storage/seed/photos/47_2.jpg",
+    "/storage/seed/photos/47_3.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-03T02:25:00.000Z"
+  },
+  {
+   "id": 45,
+   "seller": {
+    "id": 2,
+    "name": "Ana Dizon",
+    "area": "SM City Calamba"
+   },
+   "title": "Coiled aviator USB-C cable, sky and cream",
+   "description": "Handmade-style coiled cable with metal aviator connector. 1.5 m, extends to about 2 m.",
+   "category": "cable",
+   "price": 850,
+   "condition": "new",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": null,
+   "stem": null,
+   "connector": "usb_c",
+   "meetup_area": "SM City Calamba",
+   "photos": [
+    "/storage/seed/photos/45_1.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-03T01:51:00.000Z"
+  },
+  {
+   "id": 44,
+   "seller": {
+    "id": 9,
+    "name": "Marco Hernandez",
+    "area": "Biñan Pavilion"
+   },
+   "title": "Premium PCB-mount stabilizers, 65%",
+   "description": "Thick wire, tight housing, a quiet space bar. Never installed.",
+   "category": "stabilizers",
+   "price": 900,
+   "condition": "new",
+   "kind": null,
+   "connection": null,
+   "layout": "65",
+   "switch_type": null,
+   "stem": null,
+   "connector": null,
+   "meetup_area": "Biñan Pavilion",
+   "photos": [
+    "/storage/seed/photos/44_1.jpg",
+    "/storage/seed/photos/44_2.jpg",
+    "/storage/seed/photos/44_3.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-03T01:34:00.000Z"
+  },
+  {
+   "id": 42,
+   "seller": {
+    "id": 7,
+    "name": "Renz Macaraeg",
+    "area": "Robinsons Place Los Baños"
+   },
+   "title": "Universal stabilizer kit with lube and spare wires",
+   "description": "For any layout. Includes brushes and a small lube sample.",
+   "category": "stabilizers",
+   "price": 500,
+   "condition": "new",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": null,
+   "stem": null,
+   "connector": null,
+   "meetup_area": "SM City Santa Rosa",
+   "photos": [
+    "/storage/seed/photos/42_1.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-03T01:00:00.000Z"
+  },
+  {
+   "id": 41,
+   "seller": {
+    "id": 6,
+    "name": "Bea Katigbak",
+    "area": "Ayala Malls Solenad"
+   },
+   "title": "Clip-in stabilizers, 75% layout",
+   "description": "Clip-in type, no screws. Works with most PCB plates. Opened, not installed.",
+   "category": "stabilizers",
+   "price": 350,
+   "condition": "like_new",
+   "kind": null,
+   "connection": null,
+   "layout": "75",
+   "switch_type": null,
+   "stem": null,
+   "connector": null,
+   "meetup_area": "Ayala Malls Solenad",
+   "photos": [
+    "/storage/seed/photos/41_1.jpg",
+    "/storage/seed/photos/41_2.jpg",
+    "/storage/seed/photos/41_3.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-03T00:43:00.000Z"
+  },
+  {
+   "id": 40,
+   "seller": {
+    "id": 5,
+    "name": "Jerome Dela Cruz",
+    "area": "Nuvali"
+   },
+   "title": "Screw-in stabilizers, full-size set",
+   "description": "Includes the long space bar and numpad enter. Pre-lubed.",
+   "category": "stabilizers",
+   "price": 800,
+   "condition": "new",
+   "kind": null,
+   "connection": null,
+   "layout": "full",
+   "switch_type": null,
+   "stem": null,
+   "connector": null,
+   "meetup_area": "Nuvali",
+   "photos": [
+    "/storage/seed/photos/40_1.jpg",
+    "/storage/seed/photos/40_2.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-03T00:26:00.000Z"
+  },
+  {
+   "id": 39,
+   "seller": {
+    "id": 4,
+    "name": "Carla Mendoza",
+    "area": "Paseo de Santa Rosa"
+   },
+   "title": "Gold-plated wire stabilizers, TKL",
+   "description": "Rattle-free gold wire stabs. Fully lubed with dielectric grease.",
+   "category": "stabilizers",
+   "price": 650,
+   "condition": "new",
+   "kind": null,
+   "connection": null,
+   "layout": "tkl",
+   "switch_type": null,
+   "stem": null,
+   "connector": null,
+   "meetup_area": "Paseo de Santa Rosa",
+   "photos": [
+    "/storage/seed/photos/39_1.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-03T00:09:00.000Z"
+  },
+  {
+   "id": 38,
+   "seller": {
+    "id": 3,
+    "name": "Paolo Villanueva",
+    "area": "Calamba Crossing"
+   },
+   "title": "Plate-mount stabilizers, 60% set",
+   "description": "Standard 60% stabs: 2u x2 and 6.25u. Includes spare wire.",
+   "category": "stabilizers",
+   "price": 300,
+   "condition": "used",
+   "kind": null,
+   "connection": null,
+   "layout": "60",
+   "switch_type": null,
+   "stem": null,
+   "connector": null,
+   "meetup_area": "Calamba Crossing",
+   "photos": [
+    "/storage/seed/photos/38_1.jpg",
+    "/storage/seed/photos/38_2.jpg",
+    "/storage/seed/photos/38_3.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T23:52:00.000Z"
+  },
+  {
+   "id": 37,
+   "seller": {
+    "id": 2,
+    "name": "Ana Dizon",
+    "area": "SM City Calamba"
+   },
+   "title": "Screw-in stabilizer set for 65 and 75% boards",
+   "description": "Plate-mount screw-in stabs, lubed and clipped. 2u plus 6.25u.",
+   "category": "stabilizers",
+   "price": 450,
+   "condition": "new",
+   "kind": null,
+   "connection": null,
+   "layout": "65",
+   "switch_type": null,
+   "stem": null,
+   "connector": null,
+   "meetup_area": "SM City Calamba",
+   "photos": [
+    "/storage/seed/photos/37_1.jpg",
+    "/storage/seed/photos/37_2.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T23:35:00.000Z"
+  },
+  {
+   "id": 36,
+   "seller": {
+    "id": 13,
+    "name": "Ian Soriano",
+    "area": "SM City Santa Rosa"
+   },
+   "title": "Speed linear switches, 36 pcs, used",
+   "description": "Short travel, light spring. Plate-mount compatible. Lightly used, tested.",
+   "category": "switches",
+   "price": 450,
+   "condition": "used",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": "linear",
+   "stem": "mx",
+   "connector": null,
+   "meetup_area": "SM City Santa Rosa",
+   "photos": [
+    "/storage/seed/photos/36_1.jpg"
+   ],
+   "sound_url": "/storage/seed/sounds/typing_7.wav",
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T23:18:00.000Z"
+  },
+  {
+   "id": 35,
+   "seller": {
+    "id": 12,
+    "name": "Kaye Bautista",
+    "area": "Waltermart Calamba"
+   },
+   "title": "Topre-style domes and sliders, full set",
+   "description": "Replacement domes and sliders for a Topre-style board. Barely used.",
+   "category": "switches",
+   "price": 2200,
+   "condition": "like_new",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": "tactile",
+   "stem": "topre",
+   "connector": null,
+   "meetup_area": "Waltermart Calamba",
+   "photos": [
+    "/storage/seed/photos/35_1.jpg",
+    "/storage/seed/photos/35_2.jpg",
+    "/storage/seed/photos/35_3.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T23:01:00.000Z"
+  },
+  {
+   "id": 34,
+   "seller": {
+    "id": 11,
+    "name": "Dennis Pangilinan",
+    "area": "San Pablo City Plaza"
+   },
+   "title": "Alps-style tactile switches, 40 pcs, vintage",
+   "description": "Harvested from a vintage board and cleaned. For Alps restorations.",
+   "category": "switches",
+   "price": 1600,
+   "condition": "used",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": "tactile",
+   "stem": "alps",
+   "connector": null,
+   "meetup_area": "San Pablo City Plaza",
+   "photos": [
+    "/storage/seed/photos/34_1.jpg",
+    "/storage/seed/photos/34_2.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T22:44:00.000Z"
+  },
+  {
+   "id": 33,
+   "seller": {
+    "id": 10,
+    "name": "Liza Maglaya",
+    "area": "Cabuyao Town Center"
+   },
+   "title": "Low-profile linear switches, 90 pcs",
+   "description": "Slim switches for low-profile boards only. Opened but unused.",
+   "category": "switches",
+   "price": 1000,
+   "condition": "like_new",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": "linear",
+   "stem": "low_profile",
+   "connector": null,
+   "meetup_area": "Cabuyao Town Center",
+   "photos": [
+    "/storage/seed/photos/33_1.jpg"
+   ],
+   "sound_url": "/storage/seed/sounds/typing_4.wav",
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T22:27:00.000Z"
+  },
+  {
+   "id": 32,
+   "seller": {
+    "id": 9,
+    "name": "Marco Hernandez",
+    "area": "Biñan Pavilion"
+   },
+   "title": "Heavy tactile switches, 35 pcs",
+   "description": "Strong 67g tactile bump for people who bottom out hard. Bag of 35.",
+   "category": "switches",
+   "price": 900,
+   "condition": "new",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": "tactile",
+   "stem": "mx",
+   "connector": null,
+   "meetup_area": "Robinsons Place Los Baños",
+   "photos": [
+    "/storage/seed/photos/32_1.jpg",
+    "/storage/seed/photos/32_2.jpg",
+    "/storage/seed/photos/32_3.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T22:10:00.000Z"
+  },
+  {
+   "id": 31,
+   "seller": {
+    "id": 8,
+    "name": "Trisha Alcantara",
+    "area": "UPLB Gate"
+   },
+   "title": "Long-pole linear switches, 110 pcs",
+   "description": "Long spring, fast return. Factory lubed. Fits full-size boards.",
+   "category": "switches",
+   "price": 1400,
+   "condition": "like_new",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": "linear",
+   "stem": "mx",
+   "connector": null,
+   "meetup_area": "UPLB Gate",
+   "photos": [
+    "/storage/seed/photos/31_1.jpg",
+    "/storage/seed/photos/31_2.jpg"
+   ],
+   "sound_url": "/storage/seed/sounds/typing_1.wav",
+   "status": "reserved",
+   "legit": null,
+   "created_at": "2026-11-02T21:53:00.000Z"
+  },
+  {
+   "id": 30,
+   "seller": {
+    "id": 7,
+    "name": "Renz Macaraeg",
+    "area": "Robinsons Place Los Baños"
+   },
+   "title": "Silent tactile switches, 45 pcs",
+   "description": "Quiet tactile with a soft bump. Never used.",
+   "category": "switches",
+   "price": 520,
+   "condition": "new",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": "tactile",
+   "stem": "mx",
+   "connector": null,
+   "meetup_area": "Robinsons Place Los Baños",
+   "photos": [
+    "/storage/seed/photos/30_1.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T21:36:00.000Z"
+  },
+  {
+   "id": 29,
+   "seller": {
+    "id": 6,
+    "name": "Bea Katigbak",
+    "area": "Ayala Malls Solenad"
+   },
+   "title": "Silent linear switches, 45 pcs",
+   "description": "Dampened stems for quiet offices. Enough for a 60% or a 65%.",
+   "category": "switches",
+   "price": 480,
+   "condition": "new",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": "linear",
+   "stem": "mx",
+   "connector": null,
+   "meetup_area": "Ayala Malls Solenad",
+   "photos": [
+    "/storage/seed/photos/29_1.jpg",
+    "/storage/seed/photos/29_2.jpg",
+    "/storage/seed/photos/29_3.jpg"
+   ],
+   "sound_url": "/storage/seed/sounds/typing_8.wav",
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T21:19:00.000Z"
+  },
+  {
+   "id": 28,
+   "seller": {
+    "id": 5,
+    "name": "Jerome Dela Cruz",
+    "area": "Nuvali"
+   },
+   "title": "Clicky blue-style switches, 100 pcs",
+   "description": "Loud clicky switches, sold in a bag of 100. Never soldered.",
+   "category": "switches",
+   "price": 650,
+   "condition": "new",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": "clicky",
+   "stem": "mx",
+   "connector": null,
+   "meetup_area": "Nuvali",
+   "photos": [
+    "/storage/seed/photos/28_1.jpg",
+    "/storage/seed/photos/28_2.jpg"
+   ],
+   "sound_url": "/storage/seed/sounds/typing_5.wav",
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T21:02:00.000Z"
+  },
+  {
+   "id": 27,
+   "seller": {
+    "id": 4,
+    "name": "Carla Mendoza",
+    "area": "Paseo de Santa Rosa"
+   },
+   "title": "Tactile switches, 70 pcs",
+   "description": "Brown-style tactile, a gentle bump. Pulled from a board I sold. Pins straight.",
+   "category": "switches",
+   "price": 600,
+   "condition": "used",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": "tactile",
+   "stem": "mx",
+   "connector": null,
+   "meetup_area": "Ayala Malls Solenad",
+   "photos": [
+    "/storage/seed/photos/27_1.jpg"
+   ],
+   "sound_url": "/storage/seed/sounds/typing_2.wav",
+   "status": "reserved",
+   "legit": null,
+   "created_at": "2026-11-02T20:45:00.000Z"
+  },
+  {
+   "id": 26,
+   "seller": {
+    "id": 3,
+    "name": "Paolo Villanueva",
+    "area": "Calamba Crossing"
+   },
+   "title": "Smooth linear switches, 90 pcs, factory lubed",
+   "description": "Full set for a TKL. Opened for testing only, all 90 present.",
+   "category": "switches",
+   "price": 1100,
+   "condition": "like_new",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": "linear",
+   "stem": "mx",
+   "connector": null,
+   "meetup_area": "Calamba Crossing",
+   "photos": [
+    "/storage/seed/photos/26_1.jpg",
+    "/storage/seed/photos/26_2.jpg",
+    "/storage/seed/photos/26_3.jpg"
+   ],
+   "sound_url": "/storage/seed/sounds/typing_6.wav",
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T20:28:00.000Z"
+  },
+  {
+   "id": 24,
+   "seller": {
+    "id": 13,
+    "name": "Ian Soriano",
+    "area": "SM City Santa Rosa"
+   },
+   "title": "Topre-style stem keycaps, 87-key",
+   "description": "For Topre-style boards. Complete TKL set with spare modifiers.",
+   "category": "keycaps",
+   "price": 1700,
+   "condition": "used",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": null,
+   "stem": "topre",
+   "connector": null,
+   "meetup_area": "Nuvali",
+   "photos": [
+    "/storage/seed/photos/24_1.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T19:54:00.000Z"
+  },
+  {
+   "id": 23,
+   "seller": {
+    "id": 12,
+    "name": "Kaye Bautista",
+    "area": "Waltermart Calamba"
+   },
+   "title": "Resin artisan keycap bundle, 5 pieces",
+   "description": "Five handmade-style resin artisans in assorted colours. Escape and arrow-key sizes.",
+   "category": "keycaps",
+   "price": 1300,
+   "condition": "like_new",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": null,
+   "stem": "mx",
+   "connector": null,
+   "meetup_area": "Waltermart Calamba",
+   "photos": [
+    "/storage/seed/photos/23_1.jpg",
+    "/storage/seed/photos/23_2.jpg",
+    "/storage/seed/photos/23_3.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T19:37:00.000Z"
+  },
+  {
+   "id": 22,
+   "seller": {
+    "id": 11,
+    "name": "Dennis Pangilinan",
+    "area": "San Pablo City Plaza"
+   },
+   "title": "Alps-compatible vintage keycap set",
+   "description": "Pulled from a vintage board. Yellowing is minimal. Alps stems only.",
+   "category": "keycaps",
+   "price": 1100,
+   "condition": "used",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": null,
+   "stem": "alps",
+   "connector": null,
+   "meetup_area": "SM City Calamba",
+   "photos": [
+    "/storage/seed/photos/22_1.jpg",
+    "/storage/seed/photos/22_2.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T19:20:00.000Z"
+  },
+  {
+   "id": 21,
+   "seller": {
+    "id": 10,
+    "name": "Liza Maglaya",
+    "area": "Cabuyao Town Center"
+   },
+   "title": "Low-profile keycaps for slim mechanical boards",
+   "description": "Low-profile caps for slim switches only. Does not fit regular MX stems.",
+   "category": "keycaps",
+   "price": 650,
+   "condition": "new",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": null,
+   "stem": "low_profile",
+   "connector": null,
+   "meetup_area": "Cabuyao Town Center",
+   "photos": [
+    "/storage/seed/photos/21_1.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T19:03:00.000Z"
+  },
+  {
+   "id": 20,
+   "seller": {
+    "id": 9,
+    "name": "Marco Hernandez",
+    "area": "Biñan Pavilion"
+   },
+   "title": "Silver blank PBT keycaps, minimalist",
+   "description": "Blank caps for the clean look. Thick PBT, textured. 104 keys.",
+   "category": "keycaps",
+   "price": 800,
+   "condition": "new",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": null,
+   "stem": "mx",
+   "connector": null,
+   "meetup_area": "Biñan Pavilion",
+   "photos": [
+    "/storage/seed/photos/20_1.jpg",
+    "/storage/seed/photos/20_2.jpg",
+    "/storage/seed/photos/20_3.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T18:46:00.000Z"
+  },
+  {
+   "id": 19,
+   "seller": {
+    "id": 8,
+    "name": "Trisha Alcantara",
+    "area": "UPLB Gate"
+   },
+   "title": "Navy and coral Cherry keycaps, TKL 87-key",
+   "description": "Fits TKL and 75%. Lightly used, cleaned with mild soap and fully dried.",
+   "category": "keycaps",
+   "price": 950,
+   "condition": "used",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": null,
+   "stem": "mx",
+   "connector": null,
+   "meetup_area": "UPLB Gate",
+   "photos": [
+    "/storage/seed/photos/19_1.jpg",
+    "/storage/seed/photos/19_2.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T18:29:00.000Z"
+  },
+  {
+   "id": 18,
+   "seller": {
+    "id": 7,
+    "name": "Renz Macaraeg",
+    "area": "Robinsons Place Los Baños"
+   },
+   "title": "Rose pink MOA-style set, 104-key",
+   "description": "Rounded MOA-style profile in soft pink and navy accents. Complete ANSI set.",
+   "category": "keycaps",
+   "price": 1900,
+   "condition": "new",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": null,
+   "stem": "mx",
+   "connector": null,
+   "meetup_area": "UPLB Gate",
+   "photos": [
+    "/storage/seed/photos/18_1.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T18:12:00.000Z"
+  },
+  {
+   "id": 17,
+   "seller": {
+    "id": 6,
+    "name": "Bea Katigbak",
+    "area": "Ayala Malls Solenad"
+   },
+   "title": "Forest green spherical keycaps, 135-key",
+   "description": "Tall sculpted spherical profile, deep sound. Includes novelty caps.",
+   "category": "keycaps",
+   "price": 2400,
+   "condition": "like_new",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": null,
+   "stem": "mx",
+   "connector": null,
+   "meetup_area": "Ayala Malls Solenad",
+   "photos": [
+    "/storage/seed/photos/17_1.jpg",
+    "/storage/seed/photos/17_2.jpg",
+    "/storage/seed/photos/17_3.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T17:55:00.000Z"
+  },
+  {
+   "id": 16,
+   "seller": {
+    "id": 5,
+    "name": "Jerome Dela Cruz",
+    "area": "Nuvali"
+   },
+   "title": "Lilac and mint XDA keycaps, 140-key",
+   "description": "Pastel XDA set with lots of extras for ISO and 60% boards. Soft matte texture.",
+   "category": "keycaps",
+   "price": 1500,
+   "condition": "new",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": null,
+   "stem": "mx",
+   "connector": null,
+   "meetup_area": "Paseo de Santa Rosa",
+   "photos": [
+    "/storage/seed/photos/16_1.jpg",
+    "/storage/seed/photos/16_2.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T17:38:00.000Z"
+  },
+  {
+   "id": 15,
+   "seller": {
+    "id": 4,
+    "name": "Carla Mendoza",
+    "area": "Paseo de Santa Rosa"
+   },
+   "title": "OEM-profile ABS keycaps, black, 104-key",
+   "description": "Basic black ABS set. A bit shiny on WASD, otherwise fine. Good for a first build.",
+   "category": "keycaps",
+   "price": 350,
+   "condition": "used",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": null,
+   "stem": "mx",
+   "connector": null,
+   "meetup_area": "Paseo de Santa Rosa",
+   "photos": [
+    "/storage/seed/photos/15_1.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T17:21:00.000Z"
+  },
+  {
+   "id": 14,
+   "seller": {
+    "id": 3,
+    "name": "Paolo Villanueva",
+    "area": "Calamba Crossing"
+   },
+   "title": "Dark amber doubleshot PBT keycap set",
+   "description": "Doubleshot legends that will never fade. Mounted on one board for a month only.",
+   "category": "keycaps",
+   "price": 1800,
+   "condition": "like_new",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": null,
+   "stem": "mx",
+   "connector": null,
+   "meetup_area": "Calamba Crossing",
+   "photos": [
+    "/storage/seed/photos/14_1.jpg",
+    "/storage/seed/photos/14_2.jpg",
+    "/storage/seed/photos/14_3.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T17:04:00.000Z"
+  },
+  {
+   "id": 13,
+   "seller": {
+    "id": 2,
+    "name": "Ana Dizon",
+    "area": "SM City Calamba"
+   },
+   "title": "PBT Cherry-profile keycaps, 129-key, cream and sky",
+   "description": "Dye-sub PBT, covers most layouts. Never mounted, still sealed in the bag.",
+   "category": "keycaps",
+   "price": 1200,
+   "condition": "new",
+   "kind": null,
+   "connection": null,
+   "layout": null,
+   "switch_type": null,
+   "stem": "mx",
+   "connector": null,
+   "meetup_area": "Robinsons Place Los Baños",
+   "photos": [
+    "/storage/seed/photos/13_1.jpg",
+    "/storage/seed/photos/13_2.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T16:47:00.000Z"
+  },
+  {
+   "id": 12,
+   "seller": {
+    "id": 13,
+    "name": "Ian Soriano",
+    "area": "SM City Santa Rosa"
+   },
+   "title": "Split-style ergonomic wireless keyboard",
+   "description": "Membrane ergonomic keyboard with palm rest. Helps with wrist strain. Receiver included. Works on Windows and Mac.",
+   "category": "keyboard",
+   "price": 1600,
+   "condition": "used",
+   "kind": "standard",
+   "connection": "wireless",
+   "layout": "full",
+   "switch_type": null,
+   "stem": null,
+   "connector": "usb_a",
+   "meetup_area": "SM City Santa Rosa",
+   "photos": [
+    "/storage/seed/photos/12_1.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T16:30:00.000Z"
+  },
+  {
+   "id": 11,
+   "seller": {
+    "id": 12,
+    "name": "Kaye Bautista",
+    "area": "Waltermart Calamba"
+   },
+   "title": "Gaming TKL, optical linear switches",
+   "description": "Fast optical linear switches, aluminum top plate, braided cable. Warranty card included but expired.",
+   "category": "keyboard",
+   "price": 2900,
+   "condition": "like_new",
+   "kind": "mechanical",
+   "connection": "wired",
+   "layout": "tkl",
+   "switch_type": "linear",
+   "stem": "mx",
+   "connector": "usb_c",
+   "meetup_area": "Waltermart Calamba",
+   "photos": [
+    "/storage/seed/photos/11_1.jpg",
+    "/storage/seed/photos/11_2.jpg",
+    "/storage/seed/photos/11_3.jpg"
+   ],
+   "sound_url": "/storage/seed/sounds/typing_7.wav",
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T16:13:00.000Z"
+  },
+  {
+   "id": 10,
+   "seller": {
+    "id": 11,
+    "name": "Dennis Pangilinan",
+    "area": "San Pablo City Plaza"
+   },
+   "title": "Retro 60% mechanical, Alps-style stems",
+   "description": "Vintage-feel board with Alps-compatible switches. Hard to find caps for these, so a small set of spares is included.",
+   "category": "keyboard",
+   "price": 2600,
+   "condition": "used",
+   "kind": "mechanical",
+   "connection": "wired",
+   "layout": "60",
+   "switch_type": "tactile",
+   "stem": "alps",
+   "connector": "mini_usb",
+   "meetup_area": "SM City Santa Rosa",
+   "photos": [
+    "/storage/seed/photos/10_1.jpg",
+    "/storage/seed/photos/10_2.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T15:56:00.000Z"
+  },
+  {
+   "id": 9,
+   "seller": {
+    "id": 10,
+    "name": "Liza Maglaya",
+    "area": "Cabuyao Town Center"
+   },
+   "title": "Full-size clicky mechanical, blue switches",
+   "description": "Very loud and satisfying. Blue-style clicky switches, mini-USB cable fixed. Not for shared rooms!",
+   "category": "keyboard",
+   "price": 1500,
+   "condition": "used",
+   "kind": "mechanical",
+   "connection": "wired",
+   "layout": "full",
+   "switch_type": "clicky",
+   "stem": "mx",
+   "connector": "mini_usb",
+   "meetup_area": "SM City Calamba",
+   "photos": [
+    "/storage/seed/photos/9_1.jpg"
+   ],
+   "sound_url": "/storage/seed/sounds/typing_6.wav",
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T15:39:00.000Z"
+  },
+  {
+   "id": 8,
+   "seller": {
+    "id": 9,
+    "name": "Marco Hernandez",
+    "area": "Biñan Pavilion"
+   },
+   "title": "Low-profile wireless mechanical 75%",
+   "description": "Slim low-profile switches, very portable. Bluetooth plus 2.4 GHz dongle. Comes with the dongle and original cable.",
+   "category": "keyboard",
+   "price": 3400,
+   "condition": "used",
+   "kind": "mechanical",
+   "connection": "wireless",
+   "layout": "75",
+   "switch_type": "tactile",
+   "stem": "low_profile",
+   "connector": "usb_c",
+   "meetup_area": "Biñan Pavilion",
+   "photos": [
+    "/storage/seed/photos/8_1.jpg",
+    "/storage/seed/photos/8_2.jpg",
+    "/storage/seed/photos/8_3.jpg"
+   ],
+   "sound_url": "/storage/seed/sounds/typing_5.wav",
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T15:22:00.000Z"
+  },
+  {
+   "id": 7,
+   "seller": {
+    "id": 8,
+    "name": "Trisha Alcantara",
+    "area": "UPLB Gate"
+   },
+   "title": "40% compact mechanical, wired, tactile",
+   "description": "Tiny 40% board with layers. Takes some getting used to but great for travel. Comes with a small carry sleeve.",
+   "category": "keyboard",
+   "price": 3000,
+   "condition": "used",
+   "kind": "mechanical",
+   "connection": "wired",
+   "layout": "40",
+   "switch_type": "tactile",
+   "stem": "mx",
+   "connector": "usb_c",
+   "meetup_area": "UPLB Gate",
+   "photos": [
+    "/storage/seed/photos/7_1.jpg",
+    "/storage/seed/photos/7_2.jpg"
+   ],
+   "sound_url": "/storage/seed/sounds/typing_4.wav",
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T15:05:00.000Z"
+  },
+  {
+   "id": 6,
+   "seller": {
+    "id": 7,
+    "name": "Renz Macaraeg",
+    "area": "Robinsons Place Los Baños"
+   },
+   "title": "Aluminum 65% gasket board, barebones kit",
+   "description": "Barebones kit only: CNC aluminum case, PCB, plate and foam. No switches or keycaps. Hot-swap, screw-in stabilizers pre-installed.",
+   "category": "keyboard",
+   "price": 5800,
+   "condition": "new",
+   "kind": "mechanical",
+   "connection": "wired",
+   "layout": "65",
+   "switch_type": null,
+   "stem": "mx",
+   "connector": "usb_c",
+   "meetup_area": "Robinsons Place Los Baños",
+   "photos": [
+    "/storage/seed/photos/6_1.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T14:48:00.000Z"
+  },
+  {
+   "id": 4,
+   "seller": {
+    "id": 5,
+    "name": "Jerome Dela Cruz",
+    "area": "Nuvali"
+   },
+   "title": "Full-size office keyboard, membrane, quiet",
+   "description": "Quiet membrane keys, good for shared rooms. All keys work. Selling because I switched to a compact board.",
+   "category": "keyboard",
+   "price": 450,
+   "condition": "used",
+   "kind": "standard",
+   "connection": "wired",
+   "layout": "full",
+   "switch_type": null,
+   "stem": null,
+   "connector": "usb_a",
+   "meetup_area": "Cabuyao Town Center",
+   "photos": [
+    "/storage/seed/photos/4_1.jpg",
+    "/storage/seed/photos/4_2.jpg"
+   ],
+   "sound_url": null,
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T14:14:00.000Z"
+  },
+  {
+   "id": 3,
+   "seller": {
+    "id": 4,
+    "name": "Carla Mendoza",
+    "area": "Paseo de Santa Rosa"
+   },
+   "title": "Compact 60% wired hot-swap, RGB",
+   "description": "Brand new, unused. Hot-swap sockets, per-key RGB, linear switches. Box and keypuller included.",
+   "category": "keyboard",
+   "price": 1900,
+   "condition": "new",
+   "kind": "mechanical",
+   "connection": "wired",
+   "layout": "60",
+   "switch_type": "linear",
+   "stem": "mx",
+   "connector": "usb_c",
+   "meetup_area": "Paseo de Santa Rosa",
+   "photos": [
+    "/storage/seed/photos/3_1.jpg"
+   ],
+   "sound_url": "/storage/seed/sounds/typing_3.wav",
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T13:57:00.000Z"
+  },
+  {
+   "id": 2,
+   "seller": {
+    "id": 3,
+    "name": "Paolo Villanueva",
+    "area": "Calamba Crossing"
+   },
+   "title": "TKL wired mechanical, brown switches, PBT caps",
+   "description": "Reliable TKL for work and gaming. Tactile switches, PBT keycaps, detachable USB-C cable included. Light wear on the spacebar.",
+   "category": "keyboard",
+   "price": 2200,
+   "condition": "used",
+   "kind": "mechanical",
+   "connection": "wired",
+   "layout": "tkl",
+   "switch_type": "tactile",
+   "stem": "mx",
+   "connector": "usb_c",
+   "meetup_area": "SM City Calamba",
+   "photos": [
+    "/storage/seed/photos/2_1.jpg",
+    "/storage/seed/photos/2_2.jpg",
+    "/storage/seed/photos/2_3.jpg"
+   ],
+   "sound_url": "/storage/seed/sounds/typing_2.wav",
+   "status": "active",
+   "legit": null,
+   "created_at": "2026-11-02T13:40:00.000Z"
+  }
+ ],
+ "legit_references": [
+  {
+   "id": "akko-3098b-plus",
+   "brand": "Akko",
+   "model": "3098B Plus",
+   "fields": {
+    "layout": null,
+    "switches": {
+     "value": [
+      "Akko V3 Cream Yellow Pro"
+     ],
+     "source": "https://en.akkogear.com/product/black-cyan-3098b-mechanical-keyboard/",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "PBT double-shot",
+     "source": "https://en.akkogear.com/product/black-cyan-3098b-mechanical-keyboard/",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": {
+     "value": "ASA",
+     "source": "https://en.akkogear.com/product/black-cyan-3098b-mechanical-keyboard/",
+     "accessed": "2026-11-12"
+    },
+    "connection": {
+     "value": "wireless",
+     "source": "https://en.akkogear.com/product/black-cyan-3098b-mechanical-keyboard/",
+     "accessed": "2026-11-12"
+    },
+    "weight_g": null,
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "akko-5075b-plus",
+   "brand": "Akko",
+   "model": "5075B Plus",
+   "fields": {
+    "layout": null,
+    "switches": {
+     "value": [
+      "Akko V3 Piano Pro"
+     ],
+     "source": "https://en.akkogear.com/product/chicago-5075b-plus-mechanical-keyboard/",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "PBT double-shot",
+     "source": "https://en.akkogear.com/product/chicago-5075b-plus-mechanical-keyboard/",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": {
+     "value": "ASA",
+     "source": "https://en.akkogear.com/product/chicago-5075b-plus-mechanical-keyboard/",
+     "accessed": "2026-11-12"
+    },
+    "connection": {
+     "value": "wireless",
+     "source": "https://en.akkogear.com/product/chicago-5075b-plus-mechanical-keyboard/",
+     "accessed": "2026-11-12"
+    },
+    "weight_g": null,
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "akko-mod007b-he",
+   "brand": "Akko",
+   "model": "MOD007B HE",
+   "fields": {
+    "layout": null,
+    "switches": {
+     "value": [
+      "Kailh Sakura Pink Magnetic",
+      "Cream Yellow Magnetic"
+     ],
+     "source": "https://en.akkogear.com/product/akko-mod007b-he-mechanical-keyboard/",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": null,
+    "keycap_profile": null,
+    "connection": {
+     "value": "wireless",
+     "source": "https://en.akkogear.com/product/akko-mod007b-he-mechanical-keyboard/",
+     "accessed": "2026-11-12"
+    },
+    "weight_g": null,
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "corsair-k100-air-wireless",
+   "brand": "Corsair",
+   "model": "K100 AIR Wireless",
+   "fields": {
+    "layout": {
+     "value": "Full-size",
+     "source": "https://www.corsair.com/us/en/p/keyboards/ch-913a01u-na/k100-air-wireless-rgb-ultra-thin-mechanical-gaming-keyboard-cherry-mx-ultra-low-profile-tactile-ch-913a01u-na",
+     "accessed": "2026-11-12"
+    },
+    "switches": {
+     "value": [
+      "CHERRY MX Ultra LP TACTILE"
+     ],
+     "source": "https://www.corsair.com/us/en/p/keyboards/ch-913a01u-na/k100-air-wireless-rgb-ultra-thin-mechanical-gaming-keyboard-cherry-mx-ultra-low-profile-tactile-ch-913a01u-na",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": null,
+    "keycap_profile": null,
+    "connection": {
+     "value": "wireless",
+     "source": "https://www.corsair.com/us/en/p/keyboards/ch-913a01u-na/k100-air-wireless-rgb-ultra-thin-mechanical-gaming-keyboard-cherry-mx-ultra-low-profile-tactile-ch-913a01u-na",
+     "accessed": "2026-11-12"
+    },
+    "weight_g": null,
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "corsair-k65-plus-wireless",
+   "brand": "Corsair",
+   "model": "K65 PLUS WIRELESS",
+   "fields": {
+    "layout": {
+     "value": "75%",
+     "source": "https://www.corsair.com/us/en/p/keyboards/ch-91d401l-na/k65-plus-wireless-75-percent-rgb-mechanical-gaming-keyboard-ch-91d401l-na",
+     "accessed": "2026-11-12"
+    },
+    "switches": {
+     "value": [
+      "CORSAIR MLX Red"
+     ],
+     "source": "https://www.corsair.com/us/en/p/keyboards/ch-91d401l-na/k65-plus-wireless-75-percent-rgb-mechanical-gaming-keyboard-ch-91d401l-na",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "PBT dye-sublimated",
+     "source": "https://www.corsair.com/us/en/p/keyboards/ch-91d401l-na/k65-plus-wireless-75-percent-rgb-mechanical-gaming-keyboard-ch-91d401l-na",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": null,
+    "connection": {
+     "value": "wireless",
+     "source": "https://www.corsair.com/us/en/p/keyboards/ch-91d401l-na/k65-plus-wireless-75-percent-rgb-mechanical-gaming-keyboard-ch-91d401l-na",
+     "accessed": "2026-11-12"
+    },
+    "weight_g": null,
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "corsair-k70-pro-tkl",
+   "brand": "Corsair",
+   "model": "K70 PRO TKL",
+   "fields": {
+    "layout": {
+     "value": "TKL",
+     "source": "https://www.corsair.com/us/en/p/keyboards/ch-911911g-na/k70-pro-tkl-hall-effect-programmable-keyboard-ch-911911g-na",
+     "accessed": "2026-11-12"
+    },
+    "switches": {
+     "value": [
+      "CORSAIR MGX V2"
+     ],
+     "source": "https://www.corsair.com/us/en/p/keyboards/ch-911911g-na/k70-pro-tkl-hall-effect-programmable-keyboard-ch-911911g-na",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "ABS or PBT double-shot",
+     "source": "https://www.corsair.com/us/en/p/keyboards/ch-911911g-na/k70-pro-tkl-hall-effect-programmable-keyboard-ch-911911g-na",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": null,
+    "connection": {
+     "value": "wired",
+     "source": "https://www.corsair.com/us/en/p/keyboards/ch-911911g-na/k70-pro-tkl-hall-effect-programmable-keyboard-ch-911911g-na",
+     "accessed": "2026-11-12"
+    },
+    "weight_g": null,
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "corsair-k70-rgb-pro",
+   "brand": "Corsair",
+   "model": "K70 RGB PRO",
+   "fields": {
+    "layout": {
+     "value": "Full-size",
+     "source": "https://www.corsair.com/us/en/p/keyboards/ch-9109410-na/k70-rgb-pro-mechanical-gaming-keyboard-with-pbt-double-shot-pro-keycaps-cherry-mx-red-ch-9109410-na",
+     "accessed": "2026-11-12"
+    },
+    "switches": {
+     "value": [
+      "CHERRY MX Red",
+      "CHERRY MX RGB Brown",
+      "CHERRY MX RGB Red",
+      "CHERRY MX RGB Speed",
+      "CORSAIR OPX"
+     ],
+     "source": "https://www.corsair.com/us/en/p/keyboards/ch-9109410-na/k70-rgb-pro-mechanical-gaming-keyboard-with-pbt-double-shot-pro-keycaps-cherry-mx-red-ch-9109410-na",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "PBT double-shot",
+     "source": "https://www.corsair.com/us/en/p/keyboards/ch-9109410-na/k70-rgb-pro-mechanical-gaming-keyboard-with-pbt-double-shot-pro-keycaps-cherry-mx-red-ch-9109410-na",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": null,
+    "connection": {
+     "value": "wired",
+     "source": "https://www.corsair.com/us/en/p/keyboards/ch-9109410-na/k70-rgb-pro-mechanical-gaming-keyboard-with-pbt-double-shot-pro-keycaps-cherry-mx-red-ch-9109410-na",
+     "accessed": "2026-11-12"
+    },
+    "weight_g": null,
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "ducky-one-aura",
+   "brand": "Ducky",
+   "model": "One 3 AURA",
+   "fields": {
+    "layout": {
+     "value": "60%",
+     "source": "https://ducky.global/products/one-aura",
+     "accessed": "2026-11-12"
+    },
+    "switches": {
+     "value": [
+      "Cherry Blue",
+      "Cherry Brown",
+      "Cherry Red",
+      "Cherry Silent Red",
+      "Cherry Speed Silver"
+     ],
+     "source": "https://ducky.global/products/one-aura",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": null,
+    "keycap_profile": null,
+    "connection": null,
+    "weight_g": null,
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "ducky-one-3-pro",
+   "brand": "Ducky",
+   "model": "One 3 Pro",
+   "fields": {
+    "layout": {
+     "value": "60%",
+     "source": "https://ducky.global/products/one-3-pro",
+     "accessed": "2026-11-12"
+    },
+    "switches": {
+     "value": [
+      "Cherry Brown"
+     ],
+     "source": "https://ducky.global/products/one-3-pro",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "Triple-shot PBT",
+     "source": "https://ducky.global/products/one-3-pro",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": null,
+    "connection": null,
+    "weight_g": null,
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "ducky-one-3-rgb",
+   "brand": "Ducky",
+   "model": "One 3 RGB",
+   "fields": {
+    "layout": {
+     "value": "60%",
+     "source": "https://ducky.global/products/one-3-rgb",
+     "accessed": "2026-11-12"
+    },
+    "switches": {
+     "value": [
+      "Cherry Red",
+      "Cherry Silent Red",
+      "Cherry Brown",
+      "Cherry Black",
+      "Cherry Blue",
+      "Cherry Speed Silver"
+     ],
+     "source": "https://ducky.global/products/one-3-rgb",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "True PBT double-shot",
+     "source": "https://ducky.global/products/one-3-rgb",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": null,
+    "connection": null,
+    "weight_g": null,
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "hyperx-alloy-origins-60",
+   "brand": "HyperX",
+   "model": "Alloy Origins 60",
+   "fields": {
+    "layout": {
+     "value": "60%",
+     "source": "https://hyperx.com/products/hyperx-alloy-origins-60-mechanical-gaming-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "switches": {
+     "value": [
+      "HyperX Red - Linear",
+      "HyperX Aqua - Tactile"
+     ],
+     "source": "https://hyperx.com/products/hyperx-alloy-origins-60-mechanical-gaming-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "Double-shot PBT",
+     "source": "https://hyperx.com/products/hyperx-alloy-origins-60-mechanical-gaming-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": null,
+    "connection": null,
+    "weight_g": null,
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "hyperx-alloy-origins-65",
+   "brand": "HyperX",
+   "model": "Alloy Origins 65",
+   "fields": {
+    "layout": {
+     "value": "65%",
+     "source": "https://hyperx.com/products/hyperx-alloy-origins-65",
+     "accessed": "2026-11-12"
+    },
+    "switches": {
+     "value": [
+      "HyperX Red - Linear",
+      "HyperX Aqua - Tactile"
+     ],
+     "source": "https://hyperx.com/products/hyperx-alloy-origins-65",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "Double-shot PBT",
+     "source": "https://hyperx.com/products/hyperx-alloy-origins-65",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": null,
+    "connection": null,
+    "weight_g": {
+     "value": 827.7,
+     "source": "https://supportcenter.hyperx.com/articles/alloy-origins-65/hyperx-alloy-origins-65-specifications/695c59e63766c437b1928012",
+     "accessed": "2026-11-12"
+    },
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "hyperx-alloy-rise-75",
+   "brand": "HyperX",
+   "model": "Alloy Rise 75",
+   "fields": {
+    "layout": {
+     "value": "75%",
+     "source": "https://hyperx.com/products/hyperx-alloy-rise-75-mechanical-gaming-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "switches": {
+     "value": [
+      "HyperX Red - Linear"
+     ],
+     "source": "https://hyperx.com/products/hyperx-alloy-rise-75-mechanical-gaming-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": null,
+    "keycap_profile": null,
+    "connection": null,
+    "weight_g": null,
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "keychron-k2-he",
+   "brand": "Keychron",
+   "model": "K2 HE",
+   "fields": {
+    "layout": {
+     "value": "75%",
+     "source": "https://www.keychron.com/products/keychron-k2-he-wireless-magnetic-switch-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "switches": {
+     "value": [
+      "Gateron Double-Rail Magnetic Nebula Switch Version 2",
+      "Gateron Double-Rail Magnetic Nebula Switch Version 1"
+     ],
+     "source": "https://www.keychron.com/products/keychron-k2-he-wireless-magnetic-switch-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "Double-shot PBT",
+     "source": "https://www.keychron.com/products/keychron-k2-he-wireless-magnetic-switch-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": {
+     "value": "Cherry",
+     "source": "https://www.keychron.com/products/keychron-k2-he-wireless-magnetic-switch-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "connection": {
+     "value": "wireless",
+     "source": "https://www.keychron.com/products/keychron-k2-he-wireless-magnetic-switch-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "weight_g": {
+     "value": 980,
+     "source": "https://www.keychron.com/products/keychron-k2-he-wireless-magnetic-switch-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "keychron-k3-he",
+   "brand": "Keychron",
+   "model": "K3 HE",
+   "fields": {
+    "layout": {
+     "value": "75%",
+     "source": "https://www.keychron.com/collections/custom-keyboards/products/keychron-k3-he-wireless-magnetic-switch-custom-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "switches": {
+     "value": [
+      "Keychron Ultra-Fast Lime Low-Profile Magnetic Switch"
+     ],
+     "source": "https://www.keychron.com/collections/custom-keyboards/products/keychron-k3-he-wireless-magnetic-switch-custom-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "Double-shot PBT",
+     "source": "https://www.keychron.com/collections/custom-keyboards/products/keychron-k3-he-wireless-magnetic-switch-custom-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": {
+     "value": "LSA",
+     "source": "https://www.keychron.com/collections/custom-keyboards/products/keychron-k3-he-wireless-magnetic-switch-custom-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "connection": {
+     "value": "wireless",
+     "source": "https://www.keychron.com/collections/custom-keyboards/products/keychron-k3-he-wireless-magnetic-switch-custom-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "weight_g": {
+     "value": 575,
+     "source": "https://www.keychron.com/collections/custom-keyboards/products/keychron-k3-he-wireless-magnetic-switch-custom-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "keychron-k8-he",
+   "brand": "Keychron",
+   "model": "K8 HE",
+   "fields": {
+    "layout": {
+     "value": "80%",
+     "source": "https://www.keychron.com/collections/pc-keyboards/products/keychron-k8-he-wireless-magnetic-switch-custom-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "switches": {
+     "value": [
+      "Gateron Double-Rail Magnetic Nebula Switch"
+     ],
+     "source": "https://www.keychron.com/collections/pc-keyboards/products/keychron-k8-he-wireless-magnetic-switch-custom-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "Double-shot",
+     "source": "https://www.keychron.com/collections/pc-keyboards/products/keychron-k8-he-wireless-magnetic-switch-custom-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": {
+     "value": "Cherry",
+     "source": "https://www.keychron.com/collections/pc-keyboards/products/keychron-k8-he-wireless-magnetic-switch-custom-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "connection": {
+     "value": "wireless",
+     "source": "https://www.keychron.com/collections/pc-keyboards/products/keychron-k8-he-wireless-magnetic-switch-custom-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "weight_g": {
+     "value": 1185,
+     "source": "https://www.keychron.com/collections/pc-keyboards/products/keychron-k8-he-wireless-magnetic-switch-custom-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "keychron-q1-he-qmk",
+   "brand": "Keychron",
+   "model": "Q1 HE",
+   "fields": {
+    "layout": {
+     "value": "75%",
+     "source": "https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "switches": {
+     "value": [
+      "Gateron Double-Rail Magnetic Nebula Switch"
+     ],
+     "source": "https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "Double-shot",
+     "source": "https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": {
+     "value": "OSA",
+     "source": "https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "connection": {
+     "value": "wireless",
+     "source": "https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "weight_g": {
+     "value": 1735,
+     "source": "https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "logitech-g915-tkl-wireless",
+   "brand": "Logitech",
+   "model": "G915 TKL",
+   "fields": {
+    "layout": {
+     "value": "TKL",
+     "source": "https://www.logitechg.com/en-us/shop/p/g915-tkl-wireless",
+     "accessed": "2026-11-12"
+    },
+    "switches": null,
+    "keycap_material": null,
+    "keycap_profile": null,
+    "connection": {
+     "value": "wireless",
+     "source": "https://www.logitechg.com/en-us/shop/p/g915-tkl-wireless",
+     "accessed": "2026-11-12"
+    },
+    "weight_g": null,
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "logitech-g915-x-tkl-wireless",
+   "brand": "Logitech",
+   "model": "G915 X TKL",
+   "fields": {
+    "layout": {
+     "value": "TKL",
+     "source": "https://www.logitechg.com/en-us/shop/p/g915-x-tkl-wireless",
+     "accessed": "2026-11-12"
+    },
+    "switches": {
+     "value": [
+      "GL Linear",
+      "GL Tactile",
+      "GL Clicky"
+     ],
+     "source": "https://www.logitechg.com/en-us/shop/p/g915-x-tkl-wireless",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "Double-shot PBT",
+     "source": "https://www.logitechg.com/en-us/shop/p/g915-x-tkl-wireless",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": null,
+    "connection": {
+     "value": "wireless",
+     "source": "https://www.logitechg.com/en-us/shop/p/g915-x-tkl-wireless",
+     "accessed": "2026-11-12"
+    },
+    "weight_g": null,
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "logitech-pro-x-tkl-wireless",
+   "brand": "Logitech",
+   "model": "PRO X TKL Wireless",
+   "fields": {
+    "layout": {
+     "value": "TKL",
+     "source": "https://www.logitechg.com/en-us/shop/p/pro-x-tkl-wireless-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "switches": {
+     "value": [
+      "Tactile",
+      "Clicky",
+      "Linear"
+     ],
+     "source": "https://www.logitechg.com/en-us/shop/p/pro-x-tkl-wireless-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": null,
+    "keycap_profile": null,
+    "connection": {
+     "value": "wireless",
+     "source": "https://www.logitechg.com/en-us/shop/p/pro-x-tkl-wireless-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "weight_g": null,
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "razer-blackwidow-v4-pro",
+   "brand": "Razer",
+   "model": "BlackWidow V4 Pro",
+   "fields": {
+    "layout": null,
+    "switches": {
+     "value": [
+      "Green",
+      "Yellow",
+      "Orange"
+     ],
+     "source": "https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "ABS doubleshot",
+     "source": "https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": null,
+    "connection": {
+     "value": "wired",
+     "source": "https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro",
+     "accessed": "2026-11-12"
+    },
+    "weight_g": null,
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "razer-blackwidow-v4-pro-75",
+   "brand": "Razer",
+   "model": "BlackWidow V4 Pro 75%",
+   "fields": {
+    "layout": {
+     "value": "75%",
+     "source": "https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro-75",
+     "accessed": "2026-11-12"
+    },
+    "switches": {
+     "value": [
+      "Razer Orange Tactile Switches Gen-3"
+     ],
+     "source": "https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro-75",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "Textured Doubleshot PBT",
+     "source": "https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro-75",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": null,
+    "connection": {
+     "value": "wireless",
+     "source": "https://www.razer.com/gaming-keyboards/razer-blackwidow-v4-pro-75",
+     "accessed": "2026-11-12"
+    },
+    "weight_g": null,
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "razer-huntsman-mini",
+   "brand": "Razer",
+   "model": "Huntsman Mini",
+   "fields": {
+    "layout": {
+     "value": "60%",
+     "source": "https://www.razer.com/gaming-keyboards/razer-huntsman-mini",
+     "accessed": "2026-11-12"
+    },
+    "switches": {
+     "value": [
+      "Clicky",
+      "Linear"
+     ],
+     "source": "https://www.razer.com/gaming-keyboards/razer-huntsman-mini",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "DOUBLESHOT PBT",
+     "source": "https://www.razer.com/gaming-keyboards/razer-huntsman-mini",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": null,
+    "connection": null,
+    "weight_g": null,
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "razer-huntsman-v3-pro",
+   "brand": "Razer",
+   "model": "Huntsman V3 Pro",
+   "fields": {
+    "layout": null,
+    "switches": {
+     "value": [
+      "Razer Analog Optical Switches Gen-2"
+     ],
+     "source": "https://www.razer.com/gaming-keyboards/razer-huntsman-v3-pro",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "Textured Doubleshot PBT",
+     "source": "https://www.razer.com/gaming-keyboards/razer-huntsman-v3-pro",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": null,
+    "connection": null,
+    "weight_g": null,
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "royal-kludge-l98",
+   "brand": "Royal Kludge",
+   "model": "L98",
+   "fields": {
+    "layout": null,
+    "switches": {
+     "value": [
+      "Linear Cream",
+      "Tactile Beige",
+      "Linear Violet"
+     ],
+     "source": "https://rkgamingstore.com/products/l98-96-wireless-mechanical-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "PBT",
+     "source": "https://rkgamingstore.com/products/l98-96-wireless-mechanical-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": {
+     "value": "Cherry",
+     "source": "https://rkgamingstore.com/products/l98-96-wireless-mechanical-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "connection": {
+     "value": "wireless",
+     "source": "https://rkgamingstore.com/products/l98-96-wireless-mechanical-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "weight_g": null,
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "royal-kludge-r75",
+   "brand": "Royal Kludge",
+   "model": "R75",
+   "fields": {
+    "layout": {
+     "value": "75%",
+     "source": "https://rkgamingstore.com/products/r75-75-wireless-gaming-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "switches": {
+     "value": [
+      "Linear Cream"
+     ],
+     "source": "https://rkgamingstore.com/products/r75-75-wireless-gaming-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "Double-shot PBT",
+     "source": "https://rkgamingstore.com/products/r75-75-wireless-gaming-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": {
+     "value": "Cherry",
+     "source": "https://rkgamingstore.com/products/r75-75-wireless-gaming-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "connection": {
+     "value": "wireless",
+     "source": "https://rkgamingstore.com/products/r75-75-wireless-gaming-keyboard",
+     "accessed": "2026-11-12"
+    },
+    "weight_g": null,
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "royal-kludge-s98-pink-edition",
+   "brand": "Royal Kludge",
+   "model": "S98 Pink Edition",
+   "fields": {
+    "layout": {
+     "value": "96%",
+     "source": "https://rkgamingstore.com/products/s98-pink-edition",
+     "accessed": "2026-11-12"
+    },
+    "switches": {
+     "value": [
+      "Linear Cream"
+     ],
+     "source": "https://rkgamingstore.com/products/s98-pink-edition",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "Double-shot PBT",
+     "source": "https://rkgamingstore.com/products/s98-pink-edition",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": {
+     "value": "Cherry",
+     "source": "https://rkgamingstore.com/products/s98-pink-edition",
+     "accessed": "2026-11-12"
+    },
+    "connection": {
+     "value": "wireless",
+     "source": "https://rkgamingstore.com/products/s98-pink-edition",
+     "accessed": "2026-11-12"
+    },
+    "weight_g": {
+     "value": 1880,
+     "source": "https://rkgamingstore.com/products/s98-pink-edition",
+     "accessed": "2026-11-12"
+    },
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "steelseries-apex-7-tkl",
+   "brand": "SteelSeries",
+   "model": "Apex 7 TKL",
+   "fields": {
+    "layout": null,
+    "switches": {
+     "value": [
+      "Red",
+      "Blue",
+      "Brown"
+     ],
+     "source": "https://steelseries.com/gaming-keyboards/apex-7-tkl?language=uk-english",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": null,
+    "keycap_profile": null,
+    "connection": null,
+    "weight_g": null,
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "steelseries-apex-pro-tkl-gen-3",
+   "brand": "SteelSeries",
+   "model": "Apex Pro TKL Gen 3",
+   "fields": {
+    "layout": {
+     "value": "TKL",
+     "source": "https://steelseries.com/gaming-keyboards/apex-pro-tkl-gen-3",
+     "accessed": "2026-11-12"
+    },
+    "switches": {
+     "value": [
+      "OmniPoint 3.0 Adjustable HyperMagnetic Switches"
+     ],
+     "source": "https://steelseries.com/gaming-keyboards/apex-pro-tkl-gen-3",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "Double Shot PBT",
+     "source": "https://steelseries.com/gaming-keyboards/apex-pro-tkl-gen-3",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": null,
+    "connection": null,
+    "weight_g": null,
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "wooting-60he-plus",
+   "brand": "Wooting",
+   "model": "60HE+",
+   "fields": {
+    "layout": {
+     "value": "60%",
+     "source": "https://wooting.io/wooting-60he",
+     "accessed": "2026-11-12"
+    },
+    "switches": {
+     "value": [
+      "Lekker L60s"
+     ],
+     "source": "https://wooting.io/wooting-60he",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "PBT (ABS and dye-sub options also offered)",
+     "source": "https://wooting.io/wooting-60he",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": null,
+    "connection": {
+     "value": "wired",
+     "source": "https://wooting.io/wooting-60he",
+     "accessed": "2026-11-12"
+    },
+    "weight_g": {
+     "value": 605,
+     "source": "https://wooting.io/wooting-60he",
+     "accessed": "2026-11-12"
+    },
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "wooting-80he",
+   "brand": "Wooting",
+   "model": "80HE",
+   "fields": {
+    "layout": {
+     "value": "80%",
+     "source": "https://wooting.io/wooting-80he",
+     "accessed": "2026-11-12"
+    },
+    "switches": {
+     "value": [
+      "Lekker L60 V2"
+     ],
+     "source": "https://wooting.io/wooting-80he",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "PBT (ABS and dye-sub options also offered)",
+     "source": "https://wooting.io/wooting-80he",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": null,
+    "connection": null,
+    "weight_g": {
+     "value": 790,
+     "source": "https://wooting.io/wooting-80he",
+     "accessed": "2026-11-12"
+    },
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  },
+  {
+   "id": "wooting-80he-plus",
+   "brand": "Wooting",
+   "model": "80HE+",
+   "fields": {
+    "layout": {
+     "value": "80%",
+     "source": "https://wooting.io/wooting-80he-plus",
+     "accessed": "2026-11-12"
+    },
+    "switches": {
+     "value": [
+      "Lekker Tikken Medium"
+     ],
+     "source": "https://wooting.io/wooting-80he-plus",
+     "accessed": "2026-11-12"
+    },
+    "keycap_material": {
+     "value": "PBT double-shot",
+     "source": "https://wooting.io/wooting-80he-plus",
+     "accessed": "2026-11-12"
+    },
+    "keycap_profile": {
+     "value": "OEM",
+     "source": "https://wooting.io/wooting-80he-plus",
+     "accessed": "2026-11-12"
+    },
+    "connection": null,
+    "weight_g": {
+     "value": 845,
+     "source": "https://wooting.io/wooting-80he-plus",
+     "accessed": "2026-11-12"
+    },
+    "serial_format": null,
+    "counterfeit_tells": null
+   }
+  }
+ ],
+ "as_buyer": {
+  "user": {
+   "id": 14,
+   "email": "buyer@keysthetic.demo",
+   "name": "Miguel Santos",
+   "role": "buyer",
+   "area": "SM City Calamba",
+   "payment_qr_url": null,
+   "banned": false,
+   "created_at": "2026-11-02T11:41:00.000Z"
+  },
+  "builds": [
+   {
+    "id": 3,
+    "name": "Retro 60% (Alps)",
+    "layout": "60",
+    "stem": "alps",
+    "connector": "mini_usb",
+    "slots": {
+     "board": null,
+     "switches": null,
+     "keycaps": null,
+     "stabilizers": null,
+     "cable": {
+      "id": 48,
+      "seller": {
+       "id": 5,
+       "name": "Jerome Dela Cruz",
+       "area": "Nuvali"
+      },
+      "title": "Mini-USB cable for vintage keyboards",
+      "description": "Hard to find these days. Short 1 m cable, tested working.",
+      "category": "cable",
+      "price": 180,
+      "condition": "used",
+      "kind": null,
+      "connection": null,
+      "layout": null,
+      "switch_type": null,
+      "stem": null,
+      "connector": "mini_usb",
+      "meetup_area": "Robinsons Place Los Baños",
+      "photos": [
+       "/storage/seed/photos/48_1.jpg"
+      ],
+      "sound_url": null,
+      "status": "active",
+      "legit": null,
+      "created_at": "2026-11-03T02:42:00.000Z"
+     }
+    },
+    "total": 180,
+    "open_slots": [
+     "board",
+     "switches",
+     "keycaps",
+     "stabilizers"
+    ]
+   },
+   {
+    "id": 2,
+    "name": "Budget TKL",
+    "layout": "tkl",
+    "stem": "mx",
+    "connector": null,
+    "slots": {
+     "board": null,
+     "switches": null,
+     "keycaps": {
+      "id": 19,
+      "seller": {
+       "id": 8,
+       "name": "Trisha Alcantara",
+       "area": "UPLB Gate"
+      },
+      "title": "Navy and coral Cherry keycaps, TKL 87-key",
+      "description": "Fits TKL and 75%. Lightly used, cleaned with mild soap and fully dried.",
+      "category": "keycaps",
+      "price": 950,
+      "condition": "used",
+      "kind": null,
+      "connection": null,
+      "layout": null,
+      "switch_type": null,
+      "stem": "mx",
+      "connector": null,
+      "meetup_area": "UPLB Gate",
+      "photos": [
+       "/storage/seed/photos/19_1.jpg",
+       "/storage/seed/photos/19_2.jpg"
+      ],
+      "sound_url": null,
+      "status": "active",
+      "legit": null,
+      "created_at": "2026-11-02T18:29:00.000Z"
+     },
+     "stabilizers": null,
+     "cable": null
+    },
+    "total": 950,
+    "open_slots": [
+     "board",
+     "switches",
+     "stabilizers",
+     "cable"
+    ]
+   },
+   {
+    "id": 1,
+    "name": "Cozy 65% build",
+    "layout": "65",
+    "stem": "mx",
+    "connector": "usb_c",
+    "slots": {
+     "board": {
+      "id": 6,
+      "seller": {
+       "id": 7,
+       "name": "Renz Macaraeg",
+       "area": "Robinsons Place Los Baños"
+      },
+      "title": "Aluminum 65% gasket board, barebones kit",
+      "description": "Barebones kit only: CNC aluminum case, PCB, plate and foam. No switches or keycaps. Hot-swap, screw-in stabilizers pre-installed.",
+      "category": "keyboard",
+      "price": 5800,
+      "condition": "new",
+      "kind": "mechanical",
+      "connection": "wired",
+      "layout": "65",
+      "switch_type": null,
+      "stem": "mx",
+      "connector": "usb_c",
+      "meetup_area": "Robinsons Place Los Baños",
+      "photos": [
+       "/storage/seed/photos/6_1.jpg"
+      ],
+      "sound_url": null,
+      "status": "active",
+      "legit": null,
+      "created_at": "2026-11-02T14:48:00.000Z"
+     },
+     "switches": {
+      "id": 26,
+      "seller": {
+       "id": 3,
+       "name": "Paolo Villanueva",
+       "area": "Calamba Crossing"
+      },
+      "title": "Smooth linear switches, 90 pcs, factory lubed",
+      "description": "Full set for a TKL. Opened for testing only, all 90 present.",
+      "category": "switches",
+      "price": 1100,
+      "condition": "like_new",
+      "kind": null,
+      "connection": null,
+      "layout": null,
+      "switch_type": "linear",
+      "stem": "mx",
+      "connector": null,
+      "meetup_area": "Calamba Crossing",
+      "photos": [
+       "/storage/seed/photos/26_1.jpg",
+       "/storage/seed/photos/26_2.jpg",
+       "/storage/seed/photos/26_3.jpg"
+      ],
+      "sound_url": "/storage/seed/sounds/typing_6.wav",
+      "status": "active",
+      "legit": null,
+      "created_at": "2026-11-02T20:28:00.000Z"
+     },
+     "keycaps": null,
+     "stabilizers": null,
+     "cable": null
+    },
+    "total": 6900,
+    "open_slots": [
+     "keycaps",
+     "stabilizers",
+     "cable"
+    ]
+   }
+  ],
+  "threads": [
+   {
+    "id": 7,
+    "listing": {
+     "id": 6,
+     "title": "Aluminum 65% gasket board, barebones kit",
+     "price": 5800,
+     "photo": "/storage/seed/photos/6_1.jpg",
+     "status": "active",
+     "category": "keyboard"
+    },
+    "buyer": {
+     "id": 14,
+     "name": "Miguel Santos",
+     "area": "SM City Calamba"
+    },
+    "seller": {
+     "id": 7,
+     "name": "Renz Macaraeg",
+     "area": "Robinsons Place Los Baños"
+    },
+    "last_message": {
+     "id": 36,
+     "thread_id": 7,
+     "sender_id": 14,
+     "kind": "offer",
+     "body": "Would 5,200 be okay? I can meet at UPLB Gate.",
+     "amount": 5200,
+     "created_at": "2026-11-03T23:40:00.000Z"
+    },
+    "pending_offer": {
+     "id": 36,
+     "thread_id": 7,
+     "sender_id": 14,
+     "kind": "offer",
+     "body": "Would 5,200 be okay? I can meet at UPLB Gate.",
+     "amount": 5200,
+     "created_at": "2026-11-03T23:40:00.000Z"
+    },
+    "order_id": null,
+    "updated_at": "2026-11-03T23:40:00.000Z"
+   },
+   {
+    "id": 3,
+    "listing": {
+     "id": 27,
+     "title": "Tactile switches, 70 pcs",
+     "price": 600,
+     "photo": "/storage/seed/photos/27_1.jpg",
+     "status": "reserved",
+     "category": "switches"
+    },
+    "buyer": {
+     "id": 14,
+     "name": "Miguel Santos",
+     "area": "SM City Calamba"
+    },
+    "seller": {
+     "id": 4,
+     "name": "Carla Mendoza",
+     "area": "Paseo de Santa Rosa"
+    },
+    "last_message": {
+     "id": 19,
+     "thread_id": 3,
+     "sender_id": 14,
+     "kind": "system",
+     "body": "Buyer chose cash on meetup. Note: Paseo de Santa Rosa, Saturday 3 PM",
+     "amount": null,
+     "created_at": "2026-11-03T16:35:00.000Z"
+    },
+    "pending_offer": null,
+    "order_id": 2,
+    "updated_at": "2026-11-03T16:35:00.000Z"
+   },
+   {
+    "id": 2,
+    "listing": {
+     "id": 14,
+     "title": "Dark amber doubleshot PBT keycap set",
+     "price": 1800,
+     "photo": "/storage/seed/photos/14_1.jpg",
+     "status": "active",
+     "category": "keycaps"
+    },
+    "buyer": {
+     "id": 14,
+     "name": "Miguel Santos",
+     "area": "SM City Calamba"
+    },
+    "seller": {
+     "id": 3,
+     "name": "Paolo Villanueva",
+     "area": "Calamba Crossing"
+    },
+    "last_message": {
+     "id": 16,
+     "thread_id": 2,
+     "sender_id": 3,
+     "kind": "counter",
+     "body": "I can do 1,650 since they are almost new.",
+     "amount": 1650,
+     "created_at": "2026-11-03T14:53:00.000Z"
+    },
+    "pending_offer": {
+     "id": 16,
+     "thread_id": 2,
+     "sender_id": 3,
+     "kind": "counter",
+     "body": "I can do 1,650 since they are almost new.",
+     "amount": 1650,
+     "created_at": "2026-11-03T14:53:00.000Z"
+    },
+    "order_id": null,
+    "updated_at": "2026-11-03T14:53:00.000Z"
+   },
+   {
+    "id": 1,
+    "listing": {
+     "id": 1,
+     "title": "Tri-mode 75% hot-swap keyboard, thocky build",
+     "price": 4500,
+     "photo": "/storage/seed/photos/1_1.jpg",
+     "status": "sold",
+     "category": "keyboard"
+    },
+    "buyer": {
+     "id": 14,
+     "name": "Miguel Santos",
+     "area": "SM City Calamba"
+    },
+    "seller": {
+     "id": 2,
+     "name": "Ana Dizon",
+     "area": "SM City Calamba"
+    },
+    "last_message": {
+     "id": 12,
+     "thread_id": 1,
+     "sender_id": 14,
+     "kind": "text",
+     "body": "Got it, works perfectly. Thank you!",
+     "amount": null,
+     "created_at": "2026-11-03T13:28:00.000Z"
+    },
+    "pending_offer": null,
+    "order_id": 1,
+    "updated_at": "2026-11-03T13:28:00.000Z"
+   }
+  ],
+  "messages": {
+   "7": [
+    {
+     "id": 34,
+     "thread_id": 7,
+     "sender_id": 14,
+     "kind": "text",
+     "body": "Is the barebones kit hot-swap? Which stabilizers does it use?",
+     "amount": null,
+     "created_at": "2026-11-03T23:06:00.000Z"
+    },
+    {
+     "id": 35,
+     "thread_id": 7,
+     "sender_id": 7,
+     "kind": "text",
+     "body": "Hot-swap, with screw-in stabs already installed.",
+     "amount": null,
+     "created_at": "2026-11-03T23:23:00.000Z"
+    },
+    {
+     "id": 36,
+     "thread_id": 7,
+     "sender_id": 14,
+     "kind": "offer",
+     "body": "Would 5,200 be okay? I can meet at UPLB Gate.",
+     "amount": 5200,
+     "created_at": "2026-11-03T23:40:00.000Z"
+    }
+   ],
+   "3": [
+    {
+     "id": 17,
+     "thread_id": 3,
+     "sender_id": 14,
+     "kind": "text",
+     "body": "I will take these. Can we meet in Santa Rosa?",
+     "amount": null,
+     "created_at": "2026-11-03T15:27:00.000Z"
+    },
+    {
+     "id": 18,
+     "thread_id": 3,
+     "sender_id": 14,
+     "kind": "system",
+     "body": "Order placed at the asking price of PHP 600.",
+     "amount": null,
+     "created_at": "2026-11-03T16:01:00.000Z"
+    },
+    {
+     "id": 19,
+     "thread_id": 3,
+     "sender_id": 14,
+     "kind": "system",
+     "body": "Buyer chose cash on meetup. Note: Paseo de Santa Rosa, Saturday 3 PM",
+     "amount": null,
+     "created_at": "2026-11-03T16:35:00.000Z"
+    }
+   ],
+   "2": [
+    {
+     "id": 13,
+     "thread_id": 2,
+     "sender_id": 14,
+     "kind": "text",
+     "body": "Hello, are the caps compatible with a 65% board?",
+     "amount": null,
+     "created_at": "2026-11-03T14:02:00.000Z"
+    },
+    {
+     "id": 14,
+     "thread_id": 2,
+     "sender_id": 3,
+     "kind": "text",
+     "body": "Yes, includes the 65% kit. Plenty of extras.",
+     "amount": null,
+     "created_at": "2026-11-03T14:19:00.000Z"
+    },
+    {
+     "id": 15,
+     "thread_id": 2,
+     "sender_id": 14,
+     "kind": "offer",
+     "body": "Would 1,400 work?",
+     "amount": 1400,
+     "created_at": "2026-11-03T14:36:00.000Z"
+    },
+    {
+     "id": 16,
+     "thread_id": 2,
+     "sender_id": 3,
+     "kind": "counter",
+     "body": "I can do 1,650 since they are almost new.",
+     "amount": 1650,
+     "created_at": "2026-11-03T14:53:00.000Z"
+    }
+   ],
+   "1": [
+    {
+     "id": 1,
+     "thread_id": 1,
+     "sender_id": 14,
+     "kind": "text",
+     "body": "Hi! Is this still available? How old is it?",
+     "amount": null,
+     "created_at": "2026-11-03T08:39:00.000Z"
+    },
+    {
+     "id": 2,
+     "thread_id": 1,
+     "sender_id": 2,
+     "kind": "text",
+     "body": "Hello! Yes, still available. About 4 months old, kept in a dust cover.",
+     "amount": null,
+     "created_at": "2026-11-03T08:56:00.000Z"
+    },
+    {
+     "id": 3,
+     "thread_id": 1,
+     "sender_id": 14,
+     "kind": "offer",
+     "body": "Can you do 3,800? I can meet up this weekend.",
+     "amount": 3800,
+     "created_at": "2026-11-03T09:13:00.000Z"
+    },
+    {
+     "id": 4,
+     "thread_id": 1,
+     "sender_id": 2,
+     "kind": "counter",
+     "body": "Lowest I can go is 4,300, comes with the original cable.",
+     "amount": 4300,
+     "created_at": "2026-11-03T09:30:00.000Z"
+    },
+    {
+     "id": 5,
+     "thread_id": 1,
+     "sender_id": 14,
+     "kind": "offer",
+     "body": "Okay, 4,200 and we have a deal.",
+     "amount": 4200,
+     "created_at": "2026-11-03T09:47:00.000Z"
+    },
+    {
+     "id": 6,
+     "thread_id": 1,
+     "sender_id": 2,
+     "kind": "accept",
+     "body": "Accepted PHP 4200.",
+     "amount": 4200,
+     "created_at": "2026-11-03T10:21:00.000Z"
+    },
+    {
+     "id": 7,
+     "thread_id": 1,
+     "sender_id": 14,
+     "kind": "system",
+     "body": "Buyer chose QR payment. Scan the seller QR and tap \"I've paid\".",
+     "amount": null,
+     "created_at": "2026-11-03T10:55:00.000Z"
+    },
+    {
+     "id": 8,
+     "thread_id": 1,
+     "sender_id": 14,
+     "kind": "system",
+     "body": "Buyer says payment was sent.",
+     "amount": null,
+     "created_at": "2026-11-03T11:29:00.000Z"
+    },
+    {
+     "id": 9,
+     "thread_id": 1,
+     "sender_id": 2,
+     "kind": "system",
+     "body": "Seller confirmed the payment.",
+     "amount": null,
+     "created_at": "2026-11-03T12:03:00.000Z"
+    },
+    {
+     "id": 10,
+     "thread_id": 1,
+     "sender_id": 2,
+     "kind": "system",
+     "body": "Seller marked the item as handed over.",
+     "amount": null,
+     "created_at": "2026-11-03T12:37:00.000Z"
+    },
+    {
+     "id": 11,
+     "thread_id": 1,
+     "sender_id": 14,
+     "kind": "system",
+     "body": "Buyer confirmed receipt. Order complete.",
+     "amount": null,
+     "created_at": "2026-11-03T13:11:00.000Z"
+    },
+    {
+     "id": 12,
+     "thread_id": 1,
+     "sender_id": 14,
+     "kind": "text",
+     "body": "Got it, works perfectly. Thank you!",
+     "amount": null,
+     "created_at": "2026-11-03T13:28:00.000Z"
+    }
+   ]
+  },
+  "orders": [
+   {
+    "id": 2,
+    "listing": {
+     "id": 27,
+     "title": "Tactile switches, 70 pcs",
+     "price": 600,
+     "photo": "/storage/seed/photos/27_1.jpg",
+     "status": "reserved",
+     "category": "switches"
+    },
+    "buyer": {
+     "id": 14,
+     "name": "Miguel Santos",
+     "area": "SM City Calamba"
+    },
+    "seller": {
+     "id": 4,
+     "name": "Carla Mendoza",
+     "area": "Paseo de Santa Rosa"
+    },
+    "price": 600,
+    "payment_method": "cod",
+    "status": "meetup_set",
+    "meetup_note": "Paseo de Santa Rosa, Saturday 3 PM",
+    "seller_qr_url": "/storage/seed/qr/3.png",
+    "thread_id": 3,
+    "history": [
+     {
+      "status": "accepted",
+      "at": "2026-11-03T15:44:00.000Z"
+     },
+     {
+      "status": "meetup_set",
+      "at": "2026-11-03T16:18:00.000Z"
+     }
+    ],
+    "created_at": "2026-11-03T15:44:00.000Z",
+    "updated_at": "2026-11-03T16:18:00.000Z"
+   },
+   {
+    "id": 1,
+    "listing": {
+     "id": 1,
+     "title": "Tri-mode 75% hot-swap keyboard, thocky build",
+     "price": 4500,
+     "photo": "/storage/seed/photos/1_1.jpg",
+     "status": "sold",
+     "category": "keyboard"
+    },
+    "buyer": {
+     "id": 14,
+     "name": "Miguel Santos",
+     "area": "SM City Calamba"
+    },
+    "seller": {
+     "id": 2,
+     "name": "Ana Dizon",
+     "area": "SM City Calamba"
+    },
+    "price": 4200,
+    "payment_method": "qr",
+    "status": "completed",
+    "meetup_note": "SM City Calamba, near the food court",
+    "seller_qr_url": "/storage/seed/qr/1.png",
+    "thread_id": 1,
+    "history": [
+     {
+      "status": "accepted",
+      "at": "2026-11-03T10:04:00.000Z"
+     },
+     {
+      "status": "awaiting_payment",
+      "at": "2026-11-03T10:38:00.000Z"
+     },
+     {
+      "status": "payment_sent",
+      "at": "2026-11-03T11:12:00.000Z"
+     },
+     {
+      "status": "paid",
+      "at": "2026-11-03T11:46:00.000Z"
+     },
+     {
+      "status": "handed_over",
+      "at": "2026-11-03T12:20:00.000Z"
+     },
+     {
+      "status": "completed",
+      "at": "2026-11-03T12:54:00.000Z"
+     }
+    ],
+    "created_at": "2026-11-03T10:04:00.000Z",
+    "updated_at": "2026-11-03T12:54:00.000Z"
+   }
+  ]
+ }
+}
