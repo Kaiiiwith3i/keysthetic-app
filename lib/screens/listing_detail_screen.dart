@@ -508,7 +508,9 @@ class _DetailSkeleton extends StatelessWidget {
   const _DetailSkeleton();
   @override
   Widget build(BuildContext context) => const Shimmer(
-        child: Padding(
+        // Scrollable only so the placeholder cannot overflow when the keyboard (search field) is still open.
+        child: SingleChildScrollView(
+          physics: NeverScrollableScrollPhysics(),
           padding: EdgeInsets.all(Sp.lg),
           child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
             AspectRatio(aspectRatio: 1.15, child: SkeletonBox(height: double.infinity, radius: Rad.lg)),

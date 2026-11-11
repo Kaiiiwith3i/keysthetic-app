@@ -65,7 +65,9 @@ class _ShellScreenState extends ConsumerState<ShellScreen> {
     }
     final tabs = _tabsFor(role);
     return Scaffold(
-      body: IndexedStack(index: _index, children: [for (final t in tabs) t.$2]),
+      // IndexedStack only hides tabs; without TickerMode their tickers (shimmer, stagger) keep running and
+      // ListingCard's "one Hero per tag" check (heroOn = TickerMode enabled) sees Home and Search at once.
+      body: IndexedStack(index: _index, children: [for (final (i, t) in tabs.indexed) TickerMode(enabled: i == _index, child: t.$2)]),
       bottomNavigationBar: AppNavBar(items: [for (final t in tabs) t.$1], index: _index, onSelect: (i) => setState(() => _index = i)),
     );
   }
