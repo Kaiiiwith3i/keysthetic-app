@@ -7,6 +7,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:flutter_riverpod/misc.dart' show Override;
 import 'package:flutter_test/flutter_test.dart';
 import 'package:keysthetic/app.dart';
 import 'package:keysthetic/services/providers.dart';
@@ -14,6 +15,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 import 'package:keysthetic/widgets/keyboard_layers.dart';
 
+import '../admin_profile_test.dart' show FakeApi;
 import '../helpers.dart';
 
 void main() {
@@ -41,12 +43,12 @@ void main() {
     });
   }
 
-  Future<ProviderContainer> boot(WidgetTester t, ThemeMode mode, Map<String, Object> prefs) async {
+  Future<ProviderContainer> boot(WidgetTester t, ThemeMode mode, Map<String, Object> prefs, {List<Override> overrides = const []}) async {
     await t.runAsync(loadFonts);
     useSize(t, const Size(412, 915));
     SharedPreferences.setMockInitialValues({'theme_mode': mode.name, ...prefs});
     final p = await SharedPreferences.getInstance();
-    final c = ProviderContainer(overrides: [prefsProvider.overrideWithValue(p)]);
+    final c = ProviderContainer(overrides: [prefsProvider.overrideWithValue(p), ...overrides]);
     addTearDown(c.dispose);
     await t.pumpWidget(UncontrolledProviderScope(container: c, child: RepaintBoundary(key: shot, child: const KeystheticApp())));
     await settle(t);
@@ -99,6 +101,38 @@ void main() {
       await snap(t, '08_motion_lab_tkl_$m');
       await t.drag(find.byType(ListView).first, const Offset(0, 300));
       await settle(t, 300);
+      expect(t.takeException(), isNull);
+    }, skip: !on);
+    testWidgets('admin + profile $m', (t) async {
+      String user(String role) => '{"id":1,"email":"fake@keysthetic.demo","name":"Fake Admin","role":"$role","area":"Nowhere","payment_qr_url":null,"banned":false}';
+      Future<void> bootAs(String role) => boot(t, mode, {'session.base_url': 'http://fake', 'session.token': 'tok', 'session.user': user(role)}, overrides: [apiProvider.overrideWithValue(FakeApi())]);
+      await bootAs('admin');
+      await snap(t, '10_admin_listings_$m');
+      await t.tap(find.byKey(const ValueKey('admin_listings.hide.1')));
+      await settle(t, 400);
+      await snap(t, '11_admin_listings_confirm_$m');
+      await t.tap(find.byKey(const ValueKey('admin_listings.confirm.cancel')));
+      await settle(t, 400);
+      await t.tap(find.byKey(const ValueKey('nav.users')));
+      await settle(t);
+      await snap(t, '12_admin_users_$m');
+      await t.tap(find.byKey(const ValueKey('nav.legit')));
+      await settle(t);
+      await snap(t, '13_admin_legit_$m');
+      await t.tap(find.byKey(const ValueKey('admin_legit.row.fake-board')));
+      await settle(t);
+      await snap(t, '14_admin_legit_edit_$m');
+      await t.drag(find.byType(ListView).last, const Offset(0, -700));
+      await settle(t, 400);
+      await snap(t, '15_admin_legit_edit_scrolled_$m');
+      await t.pageBack();
+      await settle(t);
+      await t.tap(find.byKey(const ValueKey('nav.profile')));
+      await settle(t);
+      await snap(t, '16_profile_admin_$m');
+      await t.drag(find.byType(ListView).last, const Offset(0, -900));
+      await settle(t, 400);
+      await snap(t, '17_profile_admin_bottom_$m');
       expect(t.takeException(), isNull);
     }, skip: !on);
   }
